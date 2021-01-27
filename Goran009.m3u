@@ -1,0 +1,1114 @@
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png" group-title="BOSNA I HERCEGOVINA" ,NOVA BH
+http://client.nodomain.vip:80/live.ts?channelId=36&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/36.ts
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA BH HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaBH_logo.png" group-title="BOSNA I HERCEGOVINA" ,NOVA BH HD
+http://client.nodomain.vip:80/live.ts?channelId=1509&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1509.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bht1.jpg" group-title="BOSNA I HERCEGOVINA" ,BHT
+http://client.nodomain.vip:80/live.ts?channelId=47&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/47.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/28/18/bht1_logo_16_9_light_384x216_b45eb1ad_0092_490a_b365_41f2853cdcd9.png" group-title="BOSNA I HERCEGOVINA" ,BHT HD
+http://client.nodomain.vip:80/live.ts?channelId=1188&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1188.ts
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/obn.jpg" group-title="BOSNA I HERCEGOVINA" ,OBN
+http://client.nodomain.vip:80/live.ts?channelId=51&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/51.ts
+#EXTINF:-1 tvg-id="ftv" tvg-name="FTV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ftv_ba.jpg" group-title="BOSNA I HERCEGOVINA" ,FTV
+http://client.nodomain.vip:80/live.ts?channelId=1&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1.ts
+#EXTINF:-1 tvg-id="FACE" tvg-name="FACE TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/face-tv-logo.png" group-title="BOSNA I HERCEGOVINA" ,FACE TV
+http://client.nodomain.vip:80/live.ts?channelId=54&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/54.ts
+#EXTINF:-1 tvg-id="N1_BH" tvg-name="N1 BOSNA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/45/57/n1hd_logo_16_9_light_384x216_205f4923_27d6_4713_8d99_77ba011a0a3d.png" group-title="BOSNA I HERCEGOVINA" ,N1 BOSNA
+http://client.nodomain.vip:80/live.ts?channelId=52&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/52.ts
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_ba.jpg" group-title="BOSNA I HERCEGOVINA" ,HAYAT
+http://client.nodomain.vip:80/live.ts?channelId=39&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/39.ts
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="HAYAT PLUS" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hayat_plus.jpg" group-title="BOSNA I HERCEGOVINA" ,HAYAT PLUS
+http://client.nodomain.vip:80/live.ts?channelId=103&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/103.ts
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="AL JAZEERA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_jazeera_balkans.jpg" group-title="BOSNA I HERCEGOVINA" ,AL JAZEERA
+http://client.nodomain.vip:80/live.ts?channelId=117&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/117.ts
+#EXTINF:-1 tvg-id="bn" tvg-name="BN SAT" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bnsat.png" group-title="BOSNA I HERCEGOVINA" ,BN SAT
+http://client.nodomain.vip:80/live.ts?channelId=48&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/48.ts
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="PINK BH" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Media_BH_logo.png" group-title="BOSNA I HERCEGOVINA" ,PINK BH
+http://client.nodomain.vip:80/live.ts?channelId=1383&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1383.ts
+#EXTINF:-1 tvg-id="rtvtk" tvg-name="TK TUZLA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-tk-logo.png" group-title="BOSNA I HERCEGOVINA" ,TK TUZLA
+http://client.nodomain.vip:80/live.ts?channelId=59&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/59.ts
+#EXTINF:-1 tvg-id="tv-sarajevo" tvg-name="TV SARAJEVO" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tvsa-logo.png" group-title="BOSNA I HERCEGOVINA" ,TV SARAJEVO
+http://client.nodomain.vip:80/live.ts?channelId=339&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/339.ts
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-name="ALFA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/alfatvlogo.png" group-title="BOSNA I HERCEGOVINA" ,ALFA TV
+http://client.nodomain.vip:80/live.ts?channelId=310&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/310.ts
+#EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ATV_logo.png" group-title="BOSNA I HERCEGOVINA" ,ATV
+http://client.nodomain.vip:80/live.ts?channelId=104&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/104.ts
+#EXTINF:-1 tvg-id="B1_TV_HD" tvg-name="B1 TV HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.b1tv.ba/wp-content/uploads/2018/12/fav-257x300.png" group-title="BOSNA I HERCEGOVINA" ,B1 TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1441&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1441.ts
+#EXTINF:-1 tvg-id="BIR_TV" tvg-name="BIR TV" tvg-link="" tvg-logo="http://tv.bir.ba/wp-content/uploads/2017/06/TVLogoBetaV1.png" group-title="BOSNA I HERCEGOVINA" ,BIR TV
+http://client.nodomain.vip:80/live.ts?channelId=1835&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1835.ts
+#EXTINF:-1 tvg-id="BOSANSKO POSAVSKA TV" tvg-name="BOSANSKO POSAVSKA TV" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://bosansko-posavskatv.com/wp-content/uploads/2019/05/Bosansko-Posavska-Televizija03.jpg" group-title="BOSNA I HERCEGOVINA" ,BOSANSKO POSAVSKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1583&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1583.ts
+#EXTINF:-1 tvg-id="city-tv" tvg-name="CITY TV MOSTAR" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CityTV_logo.png" group-title="BOSNA I HERCEGOVINA" ,CITY TV MOSTAR
+http://client.nodomain.vip:80/live.ts?channelId=1454&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1454.ts
+#EXTINF:-1 tvg-id="DOBRA_TV_ISLAM" tvg-name="DOBRA TV ISLAM" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Dobra_Balkanska_TV_logo.png" group-title="BOSNA I HERCEGOVINA" ,DOBRA TV ISLAM
+http://client.nodomain.vip:80/live.ts?channelId=1517&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1517.ts
+#EXTINF:-1 tvg-id="kanal-6" tvg-name="KANAL 6" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal6-logo.png" group-title="BOSNA I HERCEGOVINA" ,KANAL 6
+http://client.nodomain.vip:80/live.ts?channelId=1440&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1440.ts
+#EXTINF:-1 tvg-id="MEKKA_TV" tvg-name="MEKKA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="BOSNA I HERCEGOVINA" ,MEKKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1516&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1516.ts
+#EXTINF:-1 tvg-id="mtv-igman" tvg-name="MTV IGMAN" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/mtv-igman-logo.png" group-title="BOSNA I HERCEGOVINA" ,MTV IGMAN
+http://client.nodomain.vip:80/live.ts?channelId=116&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/116.ts
+#EXTINF:-1 tvg-id="rtv-slon" tvg-name="TV SLON" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Slon_Extra_logo.png" group-title="BOSNA I HERCEGOVINA" ,TV SLON
+http://client.nodomain.vip:80/live.ts?channelId=323&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/323.ts
+#EXTINF:-1 tvg-id="O_KANAL" tvg-name="O KANAL" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/12/03/23/48/52/l_o_kanal_xl.png" group-title="BOSNA I HERCEGOVINA" ,O KANAL
+http://client.nodomain.vip:80/live.ts?channelId=56&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/56.ts
+#EXTINF:-1 tvg-id="PODRINJE_TV" tvg-name="PODRINJE TV" tvg-link="" tvg-logo="https://podrinjemedia.ba/wp-content/uploads/2020/04/PodrinjeMediaLogo-2-300x275-1.png" group-title="BOSNA I HERCEGOVINA" ,PODRINJE TV
+http://client.nodomain.vip:80/live.ts?channelId=1875&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1875.ts
+#EXTINF:-1 tvg-id="rtv7" tvg-name="RTV 7" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv7.jpg" group-title="BOSNA I HERCEGOVINA" ,RTV 7
+http://client.nodomain.vip:80/live.ts?channelId=348&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/348.ts
+#EXTINF:-1 tvg-id="rtv-bpk-gorazde" tvg-name="RTV BPK" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://rtvbpk.ba/wp-content/uploads/2020/04/Big_Logo_20.gif" group-title="BOSNA I HERCEGOVINA" ,RTV BPK
+http://client.nodomain.vip:80/live.ts?channelId=1807&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1807.ts
+#EXTINF:-1 tvg-id="RTV_BUGOJNO" tvg-name="RTV BUGOJNO" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/08/15/tv_bugojno_384x216.png" group-title="BOSNA I HERCEGOVINA" ,RTV BUGOJNO
+http://client.nodomain.vip:80/live.ts?channelId=1373&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1373.ts
+#EXTINF:-1 tvg-id="rtv-cazin" tvg-name="RTV CAZIN" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="http://rtvcazin.ba/wp-content/uploads/2019/08/logo-jpg.jpg" group-title="BOSNA I HERCEGOVINA" ,RTV CAZIN
+http://client.nodomain.vip:80/live.ts?channelId=1798&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1798.ts
+#EXTINF:-1 tvg-id="RTVHB" tvg-name="RTV HERCEG BOSNE" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/07/02/13/16/26/l_logo_transparentbck.png" group-title="BOSNA I HERCEGOVINA" ,RTV HERCEG BOSNE
+http://client.nodomain.vip:80/live.ts?channelId=1434&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1434.ts
+#EXTINF:-1 tvg-id="RTV_SANA" tvg-name="RTV SANA" tvg-link="" tvg-logo="http://sanartv.ba/wp-content/uploads/2017/03/RTVSANA-bijelo-e1490615551806.png" group-title="BOSNA I HERCEGOVINA" ,RTV SANA
+http://client.nodomain.vip:80/live.ts?channelId=1838&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1838.ts
+#EXTINF:-1 tvg-id="rtv-usk" tvg-name="RTV USK" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-usk-logo.png" group-title="BOSNA I HERCEGOVINA" ,RTV USK
+http://client.nodomain.vip:80/live.ts?channelId=350&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/350.ts
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="RTV ZENICA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-ze-logo.png" group-title="BOSNA I HERCEGOVINA" ,RTV ZENICA
+http://client.nodomain.vip:80/live.ts?channelId=311&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/311.ts
+#EXTINF:-1 tvg-id="TV_5" tvg-name="TELEVIZIJA 5" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/favicon-www.televizija5.ba.png" group-title="BOSNA I HERCEGOVINA" ,TELEVIZIJA 5
+http://client.nodomain.vip:80/live.ts?channelId=484&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/484.ts
+#EXTINF:-1 tvg-id="TV_K3" tvg-name="TV K3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanal3-prnjavor-logo.png" group-title="BOSNA I HERCEGOVINA" ,TV K3
+http://client.nodomain.vip:80/live.ts?channelId=347&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/347.ts
+#EXTINF:-1 tvg-id="nova.hr" tvg-name="NOVA TV" tvg-link="https://tvprofil.net/xmltv/data/nova.hr/weekly_nova.hr_tvprofil.net.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaTV_logo_2019.png" group-title="HRVATSKA" ,NOVA TV
+http://client.nodomain.vip:80/live.ts?channelId=5&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/5.ts
+#EXTINF:-1 tvg-id="nova.hr" tvg-name="NOVA TV HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/nova_hd/801-8-cro-HR/nova_hd_tvchannel_list.png" group-title="HRVATSKA" ,NOVA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1176&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1176.ts
+#EXTINF:-1 tvg-id="N1_TV" tvg-name="N1 HR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/46/02/n1hd_logo_16_9_light_384x216_f0fa5312_10be_4645_9b31_005cadb32a1f.png" group-title="HRVATSKA" ,N1 HR
+http://client.nodomain.vip:80/live.ts?channelId=1458&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1458.ts
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL.png" group-title="HRVATSKA" ,RTL TV
+http://client.nodomain.vip:80/live.ts?channelId=4&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/4.ts
+#EXTINF:-1 tvg-id="RTL_TV_HR" tvg-name="RTL TV HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL.png" group-title="HRVATSKA" ,RTL TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1777&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1777.ts
+#EXTINF:-1 tvg-id="RTL_2_HR" tvg-name="RTL 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA" ,RTL 2
+http://client.nodomain.vip:80/live.ts?channelId=6&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/6.ts
+#EXTINF:-1 tvg-id="RTL_2_HR" tvg-name="RTL 2 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL2-logo.png" group-title="HRVATSKA" ,RTL 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1778&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1778.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL KOCKICA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png" group-title="HRVATSKA" ,RTL KOCKICA
+http://client.nodomain.vip:80/live.ts?channelId=8&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/8.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL KOCKICA HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png" group-title="HRVATSKA" ,RTL KOCKICA HD
+http://client.nodomain.vip:80/live.ts?channelId=1779&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1779.ts
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL ADRIA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_adria.png" group-title="HRVATSKA" ,RTL ADRIA
+http://client.nodomain.vip:80/live.ts?channelId=1804&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1804.ts
+#EXTINF:-1 tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_rtl_crime.png" group-title="HRVATSKA" ,RTL CRIME
+http://client.nodomain.vip:80/live.ts?channelId=313&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/313.ts
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Living_logo.png" group-title="HRVATSKA" ,RTL LIVING
+http://client.nodomain.vip:80/live.ts?channelId=261&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/261.ts
+#EXTINF:-1 tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTL_Passion_logo.png" group-title="HRVATSKA" ,RTL PASSION
+http://client.nodomain.vip:80/live.ts?channelId=356&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/356.ts
+#EXTINF:-1 tvg-id="RTL_Croatia_World" tvg-name="RTL CROATIA WORLD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://poslovni.sbb.rs/wp-content/uploads/2020/03/rtl-croatia-world.png" group-title="HRVATSKA" ,RTL CROATIA WORLD
+http://client.nodomain.vip:80/live.ts?channelId=1231&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1231.ts
+#EXTINF:-1 tvg-id="HTV_1" tvg-name="HTV 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt1.jpg" group-title="HRVATSKA" ,HRT 1
+http://client.nodomain.vip:80/live.ts?channelId=2&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/2.ts
+#EXTINF:-1 tvg-id="HTV_1" tvg-name="HTV 1 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt1_hd.png" group-title="HRVATSKA" ,HRT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1489&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1489.ts
+#EXTINF:-1 tvg-id="HTV_2" tvg-name="HTV 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt2.jpg" group-title="HRVATSKA" ,HRT 2
+http://client.nodomain.vip:80/live.ts?channelId=3&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/3.ts
+#EXTINF:-1 tvg-id="HTV_2" tvg-name="HTV 2 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt2_hd.png" group-title="HRVATSKA" ,HRT 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1463&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1463.ts
+#EXTINF:-1 tvg-id="HTV_3" tvg-name="HTV 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt3.jpg" group-title="HRVATSKA" ,HRT 3
+http://client.nodomain.vip:80/live.ts?channelId=188&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/188.ts
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV 3 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt3_hd.png" group-title="HRVATSKA" ,HRT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1490&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1490.ts
+#EXTINF:-1 tvg-id="HTV_4" tvg-name="HTV 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt4.jpg" group-title="HRVATSKA" ,HRT 4
+http://client.nodomain.vip:80/live.ts?channelId=277&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/277.ts
+#EXTINF:-1 tvg-id="htv4" tvg-name="HTV 4 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_hrt4_hd.png" group-title="HRVATSKA" ,HRT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1491&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1491.ts
+#EXTINF:-1 tvg-id="HRT_Int." tvg-name="HTV INT." tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/hrt_satelitski_program.jpg" group-title="HRVATSKA" ,HRT INT.
+http://client.nodomain.vip:80/live.ts?channelId=606&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/606.ts
+#EXTINF:-1 tvg-id="DOMA_TV" tvg-name="DOMA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/doma.png" group-title="HRVATSKA" ,DOMA TV
+http://client.nodomain.vip:80/live.ts?channelId=7&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/7.ts
+#EXTINF:-1 tvg-id="DOMA_TV" tvg-name="DOMA TV HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/doma.png" group-title="HRVATSKA" ,DOMA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1391&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1391.ts
+#EXTINF:-1 tvg-id="z1" tvg-name="Z1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=RiadKadic1Lpywr7EAD892Hyp" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/z1-logo.png" group-title="HRVATSKA" ,Z1
+http://client.nodomain.vip:80/live.ts?channelId=540&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/540.ts
+#EXTINF:-1 tvg-id="klasiktv" tvg-name="KLASIK TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/KlasikTV_logo.png" group-title="HRVATSKA" ,KLASIK TV
+http://client.nodomain.vip:80/live.ts?channelId=45&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/45.ts
+#EXTINF:-1 tvg-id="DUBROVNIK_TV" tvg-name="DUBROVNIK TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dutv-logo.png" group-title="HRVATSKA" ,DUBROVNIK TV
+http://client.nodomain.vip:80/live.ts?channelId=1382&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1382.ts
+#EXTINF:-1 tvg-id="GB_TV" tvg-name="GB TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="HRVATSKA" ,GB TV
+http://client.nodomain.vip:80/live.ts?channelId=1233&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1233.ts
+#EXTINF:-1 tvg-id="jabukatv" tvg-name="JABUKA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jabukatv-logo.png" group-title="HRVATSKA" ,JABUKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1236&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1236.ts
+#EXTINF:-1 tvg-id="kanal-ri" tvg-name="KANAL RI" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kanalr-logo.png" group-title="HRVATSKA" ,KANAL RI
+http://client.nodomain.vip:80/live.ts?channelId=1232&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1232.ts
+#EXTINF:-1 tvg-id="kreator-tv" tvg-name="KREATOR TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_web_prod.jpg" group-title="HRVATSKA" ,KREATOR TV
+http://client.nodomain.vip:80/live.ts?channelId=1433&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1433.ts
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LaudatoTV_logo.png" group-title="HRVATSKA" ,LAUDATO TV
+http://client.nodomain.vip:80/live.ts?channelId=604&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/604.ts
+#EXTINF:-1 tvg-id="libertas-tv" tvg-name="LIBERTAS TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LibertasTV.png" group-title="HRVATSKA" ,LIBERTAS TV
+http://client.nodomain.vip:80/live.ts?channelId=1437&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1437.ts
+#EXTINF:-1 tvg-id="MARY_TV_MEDJUGORJE" tvg-name="MARY TV MEDJUGORJE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://sj0292nqbq42lklxrpimpr5b-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/weblogo_sm_1.0.png" group-title="HRVATSKA" ,MARY TV MEDJUGORJE
+http://client.nodomain.vip:80/live.ts?channelId=1793&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1793.ts
+#EXTINF:-1 tvg-id="tv1-mreza" tvg-name="MREZA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/MrezaZG_logo.png" group-title="HRVATSKA" ,MREZA TV
+http://client.nodomain.vip:80/live.ts?channelId=1234&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1234.ts
+#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/ostv-logo.png" group-title="HRVATSKA" ,OSJECKA TV
+http://client.nodomain.vip:80/live.ts?channelId=342&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/342.ts
+#EXTINF:-1 tvg-id="poljoprivredna-tv" tvg-name="POLJOPRIVREDNA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/poljoprivredna_tv_logo.png" group-title="HRVATSKA" ,POLJOPRIVREDNA TV
+http://client.nodomain.vip:80/live.ts?channelId=1237&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1237.ts
+#EXTINF:-1 tvg-id="SB_TV" tvg-name="SB TV" tvg-link="" tvg-logo="https://sbtv.hr/templates/retroid/images/logos/rlogo1.png" group-title="HRVATSKA" ,SB TV
+http://client.nodomain.vip:80/live.ts?channelId=1865&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1865.ts
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="SLAVONSKA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/stv-logo.png" group-title="HRVATSKA" ,SLAVONSKA TV
+http://client.nodomain.vip:80/live.ts?channelId=538&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/538.ts
+#EXTINF:-1 tvg-id="Sportska_tv" tvg-name="SPORTSKA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sptv-logo.png" group-title="HRVATSKA" ,SPORTSKA TV
+http://client.nodomain.vip:80/live.ts?channelId=1673&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1673.ts
+#EXTINF:-1 tvg-id="TREND_TV" tvg-name="TREND TV KARLOVAC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TrendTV-logo_logo.png" group-title="HRVATSKA" ,TREND TV KARLOVAC
+http://client.nodomain.vip:80/live.ts?channelId=1280&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1280.ts
+#EXTINF:-1 tvg-id="TV_AURORA" tvg-name="TV AURORA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvaurora.tv/wp-content/uploads/2020/03/Logo-480-7.png" group-title="HRVATSKA" ,TV AURORA
+http://client.nodomain.vip:80/live.ts?channelId=1238&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1238.ts
+#EXTINF:-1 tvg-id="TV_JADRAN" tvg-name="TV JADRAN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/tv-jadran-logo.png" group-title="HRVATSKA" ,TV JADRAN
+http://client.nodomain.vip:80/live.ts?channelId=1230&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1230.ts
+#EXTINF:-1 tvg-id="TV_MEDJUGORJE" tvg-name="TV MEDJUGORJE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="HRVATSKA" ,TV MEDJUGORJE
+http://client.nodomain.vip:80/live.ts?channelId=1790&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1790.ts
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="VINKOVACKA TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="HRVATSKA" ,VINKOVACKA TV
+http://client.nodomain.vip:80/live.ts?channelId=539&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/539.ts
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VTV VARAZDIN" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/vtv-logo.png" group-title="HRVATSKA" ,VTV VARAZDIN
+http://client.nodomain.vip:80/live.ts?channelId=1216&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1216.ts
+#EXTINF:-1 tvg-id="Zdrava_TV" tvg-name="ZDRAVA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/zdrava-televizija-logo.jpg" group-title="HRVATSKA" ,ZDRAVA TV
+http://client.nodomain.vip:80/live.ts?channelId=1235&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1235.ts
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/novaslogo.png" group-title="SRBIJA" ,NOVA S HD
+http://client.nodomain.vip:80/live.ts?channelId=603&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/603.ts
+#EXTINF:-1 tvg-id="nova-s.sr" tvg-name="NOVA RS" tvg-link="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,NOVA RS
+http://client.nodomain.vip:80/live.ts?channelId=1520&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1520.ts
+#EXTINF:-1 tvg-id="N1_SR" tvg-name="N1 RS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://nstatic.net/img/tv/channels/m/n1.png" group-title="SRBIJA" ,N1 RS
+http://client.nodomain.vip:80/live.ts?channelId=1457&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1457.ts
+#EXTINF:-1 tvg-id="RTS_HD" tvg-name="RTS HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="SRBIJA" ,RTS HD
+http://client.nodomain.vip:80/live.ts?channelId=1189&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1189.ts
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS1_logo.png" group-title="SRBIJA" ,RTS 1
+http://client.nodomain.vip:80/live.ts?channelId=37&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/37.ts
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS2_logo.png" group-title="SRBIJA" ,RTS 2
+http://client.nodomain.vip:80/live.ts?channelId=38&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/38.ts
+#EXTINF:-1 tvg-id="RTS_3" tvg-name="RTS 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_3_logo.png" group-title="SRBIJA" ,RTS 3
+http://client.nodomain.vip:80/live.ts?channelId=544&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/544.ts
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS DRAMA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Drama_logo.png" group-title="SRBIJA" ,RTS DRAMA
+http://client.nodomain.vip:80/live.ts?channelId=1494&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1494.ts
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS KOLO" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Kolo_logo.jpg" group-title="SRBIJA" ,RTS KOLO
+http://client.nodomain.vip:80/live.ts?channelId=1499&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1499.ts
+#EXTINF:-1 tvg-id="RTS_SVET" tvg-name="RTS SVET" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_svet_logo.png" group-title="SRBIJA" ,RTS SVET
+http://client.nodomain.vip:80/live.ts?channelId=1496&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1496.ts
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS TREZOR" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Trezor_logo.png" group-title="SRBIJA" ,RTS TREZOR
+http://client.nodomain.vip:80/live.ts?channelId=1497&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1497.ts
+#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS ZIVOT" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Zivot_logo.png" group-title="SRBIJA" ,RTS ZIVOT
+http://client.nodomain.vip:80/live.ts?channelId=1498&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1498.ts
+#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtrs-logo.png" group-title="SRBIJA" ,RTRS
+http://client.nodomain.vip:80/live.ts?channelId=53&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/53.ts
+#EXTINF:-1 tvg-id="b92" tvg-name="B92" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://nstatic.net/img/tv/channels/m/b92.png" group-title="SRBIJA" ,B92
+http://client.nodomain.vip:80/live.ts?channelId=58&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/58.ts
+#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Happy_new_logo.png" group-title="SRBIJA" ,HAPPY
+http://client.nodomain.vip:80/live.ts?channelId=235&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/235.ts
+#EXTINF:-1 tvg-id="HAPPY_PAROVI" tvg-name="HAPPY PAROVI 24/7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://i.ytimg.com/vi/HhL-97KGLXk/hqdefault.jpg" group-title="SRBIJA" ,HAPPY PAROVI 24/7
+http://client.nodomain.vip:80/live.ts?channelId=483&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/483.ts
+#EXTINF:-1 tvg-id="prva-srpska-tv.sr" tvg-name="PRVA TV" tvg-link="https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-srpska-logo.png" group-title="SRBIJA" ,PRVA TV
+http://client.nodomain.vip:80/live.ts?channelId=40&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/40.ts
+#EXTINF:-1 tvg-id="PRVA_FILES" tvg-name="PRVA FILES" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_FILES_logo.png" group-title="SRBIJA" ,PRVA FILES
+http://client.nodomain.vip:80/live.ts?channelId=1644&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1644.ts
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="PRVA PLUS" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Prva_Plus_Logo.png" group-title="SRBIJA" ,PRVA PLUS
+http://client.nodomain.vip:80/live.ts?channelId=42&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/42.ts
+#EXTINF:-1 tvg-id="PRVA_KICK" tvg-name="PRVA KICK" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PRVA-KICK_logo.png" group-title="SRBIJA" ,PRVA KICK
+http://client.nodomain.vip:80/live.ts?channelId=1375&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1375.ts
+#EXTINF:-1 tvg-id="PRVA_MAX" tvg-name="PRVA MAX" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva-max_logo.jpg" group-title="SRBIJA" ,PRVA MAX
+http://client.nodomain.vip:80/live.ts?channelId=1374&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1374.ts
+#EXTINF:-1 tvg-id="PRVA_WORLD" tvg-name="PRVA WORLD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prva_world_logo.png" group-title="SRBIJA" ,PRVA WORLD
+http://client.nodomain.vip:80/live.ts?channelId=543&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/543.ts
+#EXTINF:-1 tvg-id="tv-hram" tvg-name="HRAM TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Hram_logo.png" group-title="SRBIJA" ,HRAM TV
+http://client.nodomain.vip:80/live.ts?channelId=1776&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1776.ts
+#EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="/noicon.png" group-title="SRBIJA" ,KURIR TV
+http://client.nodomain.vip:80/live.ts?channelId=1864&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1864.ts
+#EXTINF:-1 tvg-id="NASA_BALKAN" tvg-name="NASA BALKAN TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,NASA BALKAN
+http://client.nodomain.vip:80/live.ts?channelId=1504&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1504.ts
+#EXTINF:-1 tvg-id="NOVI_PAZAR" tvg-name="NOVI PAZAR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-novi-pazar-logo.png" group-title="SRBIJA" ,NOVI PAZAR
+http://client.nodomain.vip:80/live.ts?channelId=132&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/132.ts
+#EXTINF:-1 tvg-id="PALMA_PLUS" tvg-name="PALMA PLUS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,PALMA PLUS
+http://client.nodomain.vip:80/live.ts?channelId=1748&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1748.ts
+#EXTINF:-1 tvg-id="RTV_BOR" tvg-name="RTV BOR" tvg-link="" tvg-logo="https://rtvbor.rs/wp-content/uploads/2018/09/rtvborrs_logo_site.png" group-title="SRBIJA" ,RTV BOR
+http://client.nodomain.vip:80/live.ts?channelId=1887&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1887.ts
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV VOJVODINA 1" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtv-vojvodina.jpg" group-title="SRBIJA" ,RTV VOJVODINA 1
+http://client.nodomain.vip:80/live.ts?channelId=1456&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1456.ts
+#EXTINF:-1 tvg-id="SANDZAK_TV" tvg-name="SANDZAK TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZAK TV
+http://client.nodomain.vip:80/live.ts?channelId=455&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/455.ts
+#EXTINF:-1 tvg-id="SANDZACKA_TV_MREZA" tvg-name="SANDZACKA TV MREZA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SRBIJA" ,SANDZACKA TV MREZA
+http://client.nodomain.vip:80/live.ts?channelId=1500&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1500.ts
+#EXTINF:-1 tvg-id="sos" tvg-name="SOS" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sos_kanal.png" group-title="SRBIJA" ,SOS
+http://client.nodomain.vip:80/live.ts?channelId=153&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/153.ts
+#EXTINF:-1 tvg-id="NOVA_M_CG" tvg-name="NOVA M" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NovaM_logo.png" group-title="CRNA GORA" ,NOVA M
+http://client.nodomain.vip:80/live.ts?channelId=335&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/335.ts
+#EXTINF:-1 tvg-id="tvcg1" tvg-name="RTCG 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG1-logo.jpg" group-title="CRNA GORA" ,RTCG 1
+http://client.nodomain.vip:80/live.ts?channelId=315&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/315.ts
+#EXTINF:-1 tvg-id="tvcg2" tvg-name="RTCG 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG2-logo.jpg" group-title="CRNA GORA" ,RTCG 2
+http://client.nodomain.vip:80/live.ts?channelId=1643&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1643.ts
+#EXTINF:-1 tvg-id="tvcg-sat" tvg-name="RTCG SAT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTCG-Sat-logo.jpg" group-title="CRNA GORA" ,RTCG SAT
+http://client.nodomain.vip:80/live.ts?channelId=1783&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1783.ts
+#EXTINF:-1 tvg-id="PRVA_TV_CG" tvg-name="PRVA TV CG" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/prvacg.jpg" group-title="CRNA GORA" ,PRVA TV CG
+http://client.nodomain.vip:80/live.ts?channelId=1784&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1784.ts
+#EXTINF:-1 tvg-id="TV_VIJESTI" tvg-name="TV VIJESTI CG" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/TV_Vijesti_CG_logo.png" group-title="CRNA GORA" ,TV VIJESTI CG
+http://client.nodomain.vip:80/live.ts?channelId=1645&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1645.ts
+#EXTINF:-1 tvg-id="24_KITCHEN" tvg-name="24 KITCHEN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/10/28/24_kitchen_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,24 KITCHEN
+http://client.nodomain.vip:80/live.ts?channelId=9&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/9.ts
+#EXTINF:-1 tvg-id="ANIMAL_PLANET_HR" tvg-name="ANIMAL PLANET" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/animal_planet_poland.png" group-title="DOKUMENTARNI & ZABAVA" ,ANIMAL PLANET
+http://client.nodomain.vip:80/live.ts?channelId=108&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/108.ts
+#EXTINF:-1 tvg-id="NATIONAL_GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/12/national_geographic_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,NATIONAL GEOGRAPHIC
+http://client.nodomain.vip:80/live.ts?channelId=10&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/10.ts
+#EXTINF:-1 tvg-id="NAT_GEO_WILD" tvg-name="NAT GEO WILD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/02/12/10/51/33/nat_geo_wild_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,NAT GEO WILD
+http://client.nodomain.vip:80/live.ts?channelId=263&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/263.ts
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/57/01/history_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,HISTORY
+http://client.nodomain.vip:80/live.ts?channelId=84&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/84.ts
+#EXTINF:-1 tvg-id="HISTORY_2" tvg-name="HISTORY 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/12/39/51/history2hd_logo_16_9_light_384x216_960b676d_768e_4cf9_9aaf_316314e944a2.png" group-title="DOKUMENTARNI & ZABAVA" ,HISTORY 2
+http://client.nodomain.vip:80/live.ts?channelId=467&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/467.ts
+#EXTINF:-1 tvg-id="DISCOVERY_HR" tvg-name="DISCOVERY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/01/29/14/14/42/2.png" group-title="DOKUMENTARNI & ZABAVA" ,DISCOVERY
+http://client.nodomain.vip:80/live.ts?channelId=105&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/105.ts
+#EXTINF:-1 tvg-id="DISCOVERY_SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,DISCOVERY SCIENCE
+http://client.nodomain.vip:80/live.ts?channelId=1672&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1672.ts
+#EXTINF:-1 tvg-id="VIASAT_HISTORY" tvg-name="VIASAT HISTORY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/12/56/viasathistory_logo_16_9_light_384x216_81d897e3_8090_4a26_9636_7a755b99ccd3.png" group-title="DOKUMENTARNI & ZABAVA" ,VIASAT HISTORY
+http://client.nodomain.vip:80/live.ts?channelId=587&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/587.ts
+#EXTINF:-1 tvg-id="VIASAT_NATURE" tvg-name="VIASAT NATURE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/22/viasat_nature_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,VIASAT NATURE
+http://client.nodomain.vip:80/live.ts?channelId=1663&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1663.ts
+#EXTINF:-1 tvg-id="PLANET_EARTH_HR" tvg-name="PLANET EARTH" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,PLANET EARTH
+http://client.nodomain.vip:80/live.ts?channelId=1430&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1430.ts
+#EXTINF:-1 tvg-id="TLC_HR" tvg-name="TLC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/41/tlc_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,TLC
+http://client.nodomain.vip:80/live.ts?channelId=373&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/373.ts
+#EXTINF:-1 tvg-id="COMEDY_CENTRAL" tvg-name="COMEDY CENTRAL EXTRA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/06/06/14/57/09/ccx_384x216px.png" group-title="DOKUMENTARNI & ZABAVA" ,COMEDY CENTRAL EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=1340&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1340.ts
+#EXTINF:-1 tvg-id="CRIME_INVESTIGATION" tvg-name="CRIME INVESTIGATION" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/10/09/16/21/40/crime_and_investigation_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,CRIME INVESTIGATION
+http://client.nodomain.vip:80/live.ts?channelId=236&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/236.ts
+#EXTINF:-1 tvg-id="DA_VINCI" tvg-name="DA VINCI LEARNING" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,DA VINCI LEARNING
+http://client.nodomain.vip:80/live.ts?channelId=573&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/573.ts
+#EXTINF:-1 tvg-id="DOKU_TV" tvg-name="DOKU TV" tvg-link="" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,DOKU TV
+http://client.nodomain.vip:80/live.ts?channelId=1839&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1839.ts
+#EXTINF:-1 tvg-id="DTX" tvg-name="DTX HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us_xtra.png" group-title="DOKUMENTARNI & ZABAVA" ,DTX HD
+http://client.nodomain.vip:80/live.ts?channelId=1662&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1662.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/58/57/e_entertainment_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,E!
+http://client.nodomain.vip:80/live.ts?channelId=118&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/118.ts
+#EXTINF:-1 tvg-id="FOOD_NETWORK" tvg-name="FOOD NETWORK" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,FOOD NETWORK
+http://client.nodomain.vip:80/live.ts?channelId=1661&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1661.ts
+#EXTINF:-1 tvg-id="ID_HR" tvg-name="INVESTIGATION DISCOVERY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,INVESTIGATION DISCOVERY
+http://client.nodomain.vip:80/live.ts?channelId=1502&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1502.ts
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="LOV I RIBOLOV" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/17/lov_i_ribolov_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,LOV I RIBOLOV
+http://client.nodomain.vip:80/live.ts?channelId=130&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/130.ts
+#EXTINF:-1 tvg-id="FINE_LIVING" tvg-name="FINE LIVING" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="DOKUMENTARNI & ZABAVA" ,FINE LIVING
+http://client.nodomain.vip:80/live.ts?channelId=469&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/469.ts
+#EXTINF:-1 tvg-id="TRAVEL_CHANNEL" tvg-name="TRAVEL CHANNEL" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/01/34/travel_channel_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,TRAVEL CHANNEL
+http://client.nodomain.vip:80/live.ts?channelId=468&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/468.ts
+#EXTINF:-1 tvg-id="VIASAT_EXPLORE" tvg-name="VIASAT EXPLORE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/15/viasat_explore_384x216.png" group-title="DOKUMENTARNI & ZABAVA" ,VIASAT EXPLORE
+http://client.nodomain.vip:80/live.ts?channelId=1153&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1153.ts
+#EXTINF:-1 tvg-id="NOVA_TV_SPORT" tvg-name="NOVA TV SPORT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/nova_sport.png" group-title="SPORT" ,NOVA TV SPORT
+http://client.nodomain.vip:80/live.ts?channelId=1780&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1780.ts
+#EXTINF:-1 tvg-id="planet-sport-1" tvg-name="PLANET SPORT 1 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_1.png" group-title="SPORT" ,PLANET SPORT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1335&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1335.ts
+#EXTINF:-1 tvg-id="planet-sport-2" tvg-name="PLANET SPORT 2 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_2.png" group-title="SPORT" ,PLANET SPORT 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1341&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1341.ts
+#EXTINF:-1 tvg-id="planet-sport-3" tvg-name="PLANET SPORT 3 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_3.png" group-title="SPORT" ,PLANET SPORT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1351&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1351.ts
+#EXTINF:-1 tvg-id="planet-sport-4" tvg-name="PLANET SPORT 4 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_4.png" group-title="SPORT" ,PLANET SPORT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1387&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1387.ts
+#EXTINF:-1 tvg-id="planet-sport-5" tvg-name="PLANET SPORT 5 HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/planetsport_5.png" group-title="SPORT" ,PLANET SPORT 5 HD
+http://client.nodomain.vip:80/live.ts?channelId=1388&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1388.ts
+#EXTINF:-1 tvg-id="ARENA_1_HR" tvg-name="ARENA HD 1 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png" group-title="SPORT" ,ARENA HD 1 HR
+http://client.nodomain.vip:80/live.ts?channelId=20&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/20.ts
+#EXTINF:-1 tvg-id="ARENA_2_HR" tvg-name="ARENA HD 2 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png" group-title="SPORT" ,ARENA HD 2 HR
+http://client.nodomain.vip:80/live.ts?channelId=21&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/21.ts
+#EXTINF:-1 tvg-id="ARENA_3_HR" tvg-name="ARENA HD 3 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png" group-title="SPORT" ,ARENA HD 3 HR
+http://client.nodomain.vip:80/live.ts?channelId=22&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/22.ts
+#EXTINF:-1 tvg-id="ARENA_4_HR" tvg-name="ARENA HD 4 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png" group-title="SPORT" ,ARENA HD 4 HR
+http://client.nodomain.vip:80/live.ts?channelId=23&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/23.ts
+#EXTINF:-1 tvg-id="ARENA_5_HR" tvg-name="ARENA HD 5 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png" group-title="SPORT" ,ARENA HD 5 HR
+http://client.nodomain.vip:80/live.ts?channelId=123&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/123.ts
+#EXTINF:-1 tvg-id="ARENA_6_HR" tvg-name="ARENA HD 6 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena6_logo.png" group-title="SPORT" ,ARENA HD 6 HR
+http://client.nodomain.vip:80/live.ts?channelId=464&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/464.ts
+#EXTINF:-1 tvg-id="ARENA_1_HR" tvg-name="ARENA FHD 1 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena1_logo.png" group-title="SPORT" ,ARENA FHD 1 HR
+http://client.nodomain.vip:80/live.ts?channelId=1858&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1858.ts
+#EXTINF:-1 tvg-id="ARENA_2_HR" tvg-name="ARENA FHD 2 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena2_logo.png" group-title="SPORT" ,ARENA FHD 2 HR
+http://client.nodomain.vip:80/live.ts?channelId=1859&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1859.ts
+#EXTINF:-1 tvg-id="ARENA_3_HR" tvg-name="ARENA FHD 3 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena3_logo.png" group-title="SPORT" ,ARENA FHD 3 HR
+http://client.nodomain.vip:80/live.ts?channelId=1860&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1860.ts
+#EXTINF:-1 tvg-id="ARENA_4_HR" tvg-name="ARENA FHD 4 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena4_logo.png" group-title="SPORT" ,ARENA FHD 4 HR
+http://client.nodomain.vip:80/live.ts?channelId=1861&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1861.ts
+#EXTINF:-1 tvg-id="ARENA_5_HR" tvg-name="ARENA FHD 5 HR" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arena5_logo.png" group-title="SPORT" ,ARENA FHD 5 HR
+http://client.nodomain.vip:80/live.ts?channelId=1862&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1862.ts
+#EXTINF:-1 tvg-id="ARENA_1_SRB" tvg-name="ARENA 1 SRB" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png" group-title="SPORT" ,ARENA 1 SRB
+http://client.nodomain.vip:80/live.ts?channelId=100&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/100.ts
+#EXTINF:-1 tvg-id="ARENA_2_SRB" tvg-name="ARENA 2 SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png" group-title="SPORT" ,ARENA 2 SRB
+http://client.nodomain.vip:80/live.ts?channelId=101&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/101.ts
+#EXTINF:-1 tvg-id="ARENA_3_SRB" tvg-name="ARENA 3 SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png" group-title="SPORT" ,ARENA 3 SRB
+http://client.nodomain.vip:80/live.ts?channelId=102&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/102.ts
+#EXTINF:-1 tvg-id="ARENA_4_SRB" tvg-name="ARENA 4 SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png" group-title="SPORT" ,ARENA 4 SRB
+http://client.nodomain.vip:80/live.ts?channelId=35&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/35.ts
+#EXTINF:-1 tvg-id="ARENA_5_SRB" tvg-name="ARENA 5 SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena5.png" group-title="SPORT" ,ARENA 5 SRB
+http://client.nodomain.vip:80/live.ts?channelId=121&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/121.ts
+#EXTINF:-1 tvg-id="ARENA_1_HD_BIH" tvg-name="ARENA 1 HD BIH" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,ARENA 1 HD BIH
+http://client.nodomain.vip:80/live.ts?channelId=1873&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1873.ts
+#EXTINF:-1 tvg-id="ARENA_1_SRB" tvg-name="ARENA 1 HD SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena1.png" group-title="SPORT" ,ARENA 1 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1336&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1336.ts
+#EXTINF:-1 tvg-id="ARENA_2_SRB" tvg-name="ARENA 2 HD SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena2.png" group-title="SPORT" ,ARENA 2 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1337&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1337.ts
+#EXTINF:-1 tvg-id="ARENA_3_SRB" tvg-name="ARENA 3 HD SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena3.png" group-title="SPORT" ,ARENA 3 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1338&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1338.ts
+#EXTINF:-1 tvg-id="ARENA_4_SRB" tvg-name="ARENA 4 HD SRB" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo_arena4.png" group-title="SPORT" ,ARENA 4 HD SRB
+http://client.nodomain.vip:80/live.ts?channelId=1339&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1339.ts
+#EXTINF:-1 tvg-id="MNE_SPORT_1_CG" tvg-name="MNE SPORT 1 CG" tvg-link="" tvg-logo="http://www.mnesport.tv/images/mnesport-logoN.png" group-title="SPORT" ,MNE SPORT 1 CG
+http://client.nodomain.vip:80/live.ts?channelId=1856&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1856.ts
+#EXTINF:-1 tvg-id="MOJA_TV_PREMIJER_LIGA_BH" tvg-name="MOJA TV PREMIJER LIGA BH" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://static.sport1.ba/media/article/110587/large/za_moja_tv_bh_phone_slika.jpg" group-title="SPORT" ,MOJA TV PREMIJER LIGA BH
+http://client.nodomain.vip:80/live.ts?channelId=1675&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1675.ts
+#EXTINF:-1 tvg-id="ZVEZDA_TV" tvg-name="ZVEZDA TV" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,ZVEZDA TV
+http://client.nodomain.vip:80/live.ts?channelId=1888&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1888.ts
+#EXTINF:-1 tvg-id="HNTV" tvg-name="HNTV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hntv_logo.png" group-title="SPORT" ,HNTV
+http://client.nodomain.vip:80/live.ts?channelId=481&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/481.ts
+#EXTINF:-1 tvg-id="SK" tvg-name="BEIN SPORTS 1 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 1 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1613&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1613.ts
+#EXTINF:-1 tvg-id="SK1" tvg-name="BEIN SPORTS 2 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 2 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1614&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1614.ts
+#EXTINF:-1 tvg-id="SK1" tvg-name="BEIN SPORTS 3 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 3 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1615&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1615.ts
+#EXTINF:-1 tvg-id="SK2" tvg-name="BEIN SPORTS 4 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 4 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1616&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1616.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_5_HD_AR" tvg-name="BEIN SPORTS 5 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 5 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1617&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1617.ts
+#EXTINF:-1 tvg-id="SK3" tvg-name="BEIN SPORTS 6 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 6 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1618&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1618.ts
+#EXTINF:-1 tvg-id="SK3" tvg-name="BEIN SPORTS 7 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 7 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1619&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1619.ts
+#EXTINF:-1 tvg-id="SK4" tvg-name="BEIN SPORTS 8 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 8 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1620&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1620.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_9_HD_AR" tvg-name="BEIN SPORTS 9 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 9 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1621&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1621.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_10_HD_AR" tvg-name="BEIN SPORTS 10 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 10 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1622&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1622.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_11_HD_AR" tvg-name="BEIN SPORTS 11 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 11 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1623&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1623.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_12_HD_AR" tvg-name="BEIN SPORTS 12 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 12 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1624&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1624.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_13_HD_AR" tvg-name="BEIN SPORTS 13 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 13 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1625&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1625.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_14_HD_AR" tvg-name="BEIN SPORTS 14 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 14 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1626&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1626.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_15_HD_AR" tvg-name="BEIN SPORTS 15 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 15 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1627&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1627.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_16_HD_AR" tvg-name="BEIN SPORTS 16 HD AR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SPORT KLUB 16 HD AR
+http://client.nodomain.vip:80/live.ts?channelId=1628&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1628.ts
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2015_logo.png" group-title="SPORT" ,EUROSPORT
+http://client.nodomain.vip:80/live.ts?channelId=128&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/128.ts
+#EXTINF:-1 tvg-id="EUROSPORT_2" tvg-name="EUROSPORT 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Eurosport_2_2015_logo.png" group-title="SPORT" ,EUROSPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=129&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/129.ts
+#EXTINF:-1 tvg-id="fightchannel" tvg-name="FIGHT CHANNEL" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/fight-channel-logo.png" group-title="SPORT" ,FIGHT CHANNEL
+http://client.nodomain.vip:80/live.ts?channelId=1674&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1674.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_1_HD_FR" tvg-name="BEIN SPORTS 1 HD FR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png" group-title="SPORT" ,BEIN SPORTS 1 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1676&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1676.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_2_HD_FR" tvg-name="BEIN SPORTS 2 HD FR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png" group-title="SPORT" ,BEIN SPORTS 2 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1677&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1677.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_3_HD_FR" tvg-name="BEIN SPORTS 3 HD FR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png" group-title="SPORT" ,BEIN SPORTS 3 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1678&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1678.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_4_HD_FR" tvg-name="BEIN SPORTS 4 HD FR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png" group-title="SPORT" ,BEIN SPORTS 4 HD FR
+http://client.nodomain.vip:80/live.ts?channelId=1679&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1679.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_1_HD_TR" tvg-name="BEIN SPORTS 1 HD TR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD1.png" group-title="SPORT" ,BEIN SPORTS 1 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1680&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1680.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_2_HD_TR" tvg-name="BEIN SPORTS 2 HD TR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein_sports_2.png" group-title="SPORT" ,BEIN SPORTS 2 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1681&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1681.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_3_HD_TR" tvg-name="BEIN SPORTS 3 HD TR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD3.png" group-title="SPORT" ,BEIN SPORTS 3 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1682&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1682.ts
+#EXTINF:-1 tvg-id="BEIN_SPORTS_4_HD_TR" tvg-name="BEIN SPORTS 4 HD TR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sports-HD4.png" group-title="SPORT" ,BEIN SPORTS 4 HD TR
+http://client.nodomain.vip:80/live.ts?channelId=1683&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1683.ts
+#EXTINF:-1 tvg-id="CANAL+_SPORT_FR" tvg-name="CANAL+ SPORT FR" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Canal_Sport_logo.png" group-title="SPORT" ,CANAL+ SPORT FR
+http://client.nodomain.vip:80/live.ts?channelId=1684&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1684.ts
+#EXTINF:-1 tvg-id="NBA_TV_HD" tvg-name="NBA TV HD" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/NBA_TV.png" group-title="SPORT" ,NBA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1685&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1685.ts
+#EXTINF:-1 tvg-id="EUROSPORT_DE" tvg-name="EUROSPORT 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="SPORT" ,EUROSPORT 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=1686&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1686.ts
+#EXTINF:-1 tvg-id="EUROSPORT_2_DE" tvg-name="EUROSPORT 2 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="SPORT" ,EUROSPORT 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=1687&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1687.ts
+#EXTINF:-1 tvg-id="EUROSPORT_2_XTRA_DE" tvg-name="EUROSPORT 2 XTRA DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-eurosport-2-xtra-785.png" group-title="SPORT" ,EUROSPORT 2 XTRA DE
+http://client.nodomain.vip:80/live.ts?channelId=1688&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1688.ts
+#EXTINF:-1 tvg-id="ORF_SPORT" tvg-name="ORF SPORT +" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-orf-sport-163.png" group-title="SPORT" ,ORF SPORT +
+http://client.nodomain.vip:80/live.ts?channelId=1742&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1742.ts
+#EXTINF:-1 tvg-id="dsf" tvg-name="SPORT 1 DE" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://sport-tv-guide.live/images/tv-station-de-sport1-166.png" group-title="SPORT" ,SPORT 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=1689&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1689.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_AUS" tvg-name="SKY SPORT AUSTRIA" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/47_sky_logo_skysportaustria_tvguide.png" group-title="SPORT" ,SKY SPORT AUSTRIA
+http://client.nodomain.vip:80/live.ts?channelId=1720&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1720.ts
+#EXTINF:-1 tvg-id="SKY_BUNDESLIGA1" tvg-name="SKY SPORT BUNDESLIGA 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/139_sky_logo_skybundesliga1_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=11&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/11.ts
+#EXTINF:-1 tvg-id="SKY_BUNDESLIGA2" tvg-name="SKY SPORT BUNDESLIGA 2 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/140_sky_logo_skybundesliga2_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=580&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/580.ts
+#EXTINF:-1 tvg-id="SKY_BUNDESLIGA3" tvg-name="SKY SPORT BUNDESLIGA 3 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/141_sky_logo_skybundesliga3_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 3 DE
+http://client.nodomain.vip:80/live.ts?channelId=581&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/581.ts
+#EXTINF:-1 tvg-id="SKY_BUNDESLIGA4" tvg-name="SKY SPORT BUNDESLIGA 4 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/142_sky_logo_skybundesliga4_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 4 DE
+http://client.nodomain.vip:80/live.ts?channelId=582&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/582.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_BUNDESLIGA_5_DE" tvg-name="SKY SPORT BUNDESLIGA 5 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/143_sky_logo_skybundesliga5_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 5 DE
+http://client.nodomain.vip:80/live.ts?channelId=583&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/583.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_BUNDESLIGA_6_DE" tvg-name="SKY SPORT BUNDESLIGA 6 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/144_sky_logo_skybundesliga6_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 6 DE
+http://client.nodomain.vip:80/live.ts?channelId=1417&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1417.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_BUNDESLIGA_7_DE" tvg-name="SKY SPORT BUNDESLIGA 7 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/145_sky_logo_skybundesliga7_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 7 DE
+http://client.nodomain.vip:80/live.ts?channelId=1418&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1418.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_BUNDESLIGA_8_DE" tvg-name="SKY SPORT BUNDESLIGA 8 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/146_sky_logo_skybundesliga8_tvguide.png" group-title="SPORT" ,SKY SPORT BUNDESLIGA 8 DE
+http://client.nodomain.vip:80/live.ts?channelId=1419&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1419.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_NEWS_DE" tvg-name="SKY SPORT NEWS DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/21_sky_logo_skysportnews_tvguide.png" group-title="SPORT" ,SKY SPORT NEWS DE
+http://client.nodomain.vip:80/live.ts?channelId=1789&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1789.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_1_DE" tvg-name="SKY SPORT 1 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/149_sky_logo_skysport1_tvguide.png" group-title="SPORT" ,SKY SPORT 1 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=92&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/92.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_2_DE" tvg-name="SKY SPORT 2 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/150_sky_logo_skysport2_tvguide.png" group-title="SPORT" ,SKY SPORT 2 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=93&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/93.ts
+#EXTINF:-1 tvg-id="SKY_DE_3" tvg-name="SKY SPORT 3 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/151_sky_logo_skysport3_tvguide.png" group-title="SPORT" ,SKY SPORT 3 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1657&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1657.ts
+#EXTINF:-1 tvg-id="SKY_DE_4" tvg-name="SKY SPORT 4 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/152_sky_logo_skysport4_tvguide.png" group-title="SPORT" ,SKY SPORT 4 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1658&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1658.ts
+#EXTINF:-1 tvg-id="SKY_DE_5" tvg-name="SKY SPORT 5 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/153_sky_logo_skysport5_tvguide.png" group-title="SPORT" ,SKY SPORT 5 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1659&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1659.ts
+#EXTINF:-1 tvg-id="SKY_DE_6" tvg-name="SKY SPORT 6 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/154_sky_logo_skysport6_tvguide.png" group-title="SPORT" ,SKY SPORT 6 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1660&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1660.ts
+#EXTINF:-1 tvg-id="AUTO_MOTOR_SPORT_DE" tvg-name="AUTO MOTOR SPORT DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,AUTO MOTOR SPORT DE
+http://client.nodomain.vip:80/live.ts?channelId=1690&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1690.ts
+#EXTINF:-1 tvg-id="FC_BAYERN_HD_DE" tvg-name="FC BAYERN HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,FC BAYERN HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1691&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1691.ts
+#EXTINF:-1 tvg-id="BT_SPORT_1" tvg-name="BT SPORT 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-1-tvlogo.png" group-title="SPORT" ,BT SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1694&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1694.ts
+#EXTINF:-1 tvg-id="BT_SPORT_2" tvg-name="BT SPORT 2" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-2-tvlogo.png" group-title="SPORT" ,BT SPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=1695&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1695.ts
+#EXTINF:-1 tvg-id="BT_SPORT_3" tvg-name="BT SPORT 3" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sport-3-tvlogo.png" group-title="SPORT" ,BT SPORT 3
+http://client.nodomain.vip:80/live.ts?channelId=1696&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1696.ts
+#EXTINF:-1 tvg-id="BT_SPORT_ESPN" tvg-name="BT SPORT ESPN" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/bt-sportespn-tvlogo.png" group-title="SPORT" ,BT SPORT ESPN
+http://client.nodomain.vip:80/live.ts?channelId=1697&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1697.ts
+#EXTINF:-1 tvg-id="EIR_SPORT_1" tvg-name="EIR SPORT 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/eir-sport-1-tvlogo.png" group-title="SPORT" ,EIR SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1698&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1698.ts
+#EXTINF:-1 tvg-id="EIR_SPORT_2" tvg-name="EIR SPORT 2" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/lmstelevision/tv-logos/8f188e3ed58a1e3b131f4eb9870c3fcf.png" group-title="SPORT" ,EIR SPORT 2
+http://client.nodomain.vip:80/live.ts?channelId=1699&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1699.ts
+#EXTINF:-1 tvg-id="ELEVEN_SPORT_1_PL" tvg-name="ELEVEN SPORT 1 PL" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sport-1-631.png" group-title="SPORT" ,ELEVEN SPORT 1 PL
+http://client.nodomain.vip:80/live.ts?channelId=1700&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1700.ts
+#EXTINF:-1 tvg-id="ELEVEN_SPORT_2_PL" tvg-name="ELEVEN SPORT 2 PL" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png" group-title="SPORT" ,ELEVEN SPORT 2 PL
+http://client.nodomain.vip:80/live.ts?channelId=1701&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1701.ts
+#EXTINF:-1 tvg-id="ESPN_US" tvg-name="ESPN US" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-us-espn-29.png" group-title="SPORT" ,ESPN US
+http://client.nodomain.vip:80/live.ts?channelId=1703&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1703.ts
+#EXTINF:-1 tvg-id="LIVERPOOL" tvg-name="LIVERPOOL FC TV UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,LIVERPOOL FC TV UK
+http://client.nodomain.vip:80/live.ts?channelId=1704&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1704.ts
+#EXTINF:-1 tvg-id="PREMIERE_SPORT_UK" tvg-name="PREMIER SPORTS UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,PREMIER SPORTS UK
+http://client.nodomain.vip:80/live.ts?channelId=1800&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1800.ts
+#EXTINF:-1 tvg-id="PREMIER_SPORTS_2_UK" tvg-name="PREMIER SPORTS 2 UK" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,PREMIER SPORTS 2 UK
+http://client.nodomain.vip:80/live.ts?channelId=1818&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1818.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_F1_UK" tvg-name="SKY SPORT F1 UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_sport_f1_it.png" group-title="SPORT" ,SKY SPORT F1 UK
+http://client.nodomain.vip:80/live.ts?channelId=1706&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1706.ts
+#EXTINF:-1 tvg-id="SKY_ARENA" tvg-name="SKY SPORT ARENA UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_sport_arena.png" group-title="SPORT" ,SKY SPORT ARENA UK
+http://client.nodomain.vip:80/live.ts?channelId=1707&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1707.ts
+#EXTINF:-1 tvg-id="SKY_FOOTBALL_UK" tvg-name="SKY SPORT MIX UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SKY SPORT MIX UK
+http://client.nodomain.vip:80/live.ts?channelId=1708&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1708.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_GOLF_UK" tvg-name="SKY SPORT GOLF UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SKY SPORT GOLF UK
+http://client.nodomain.vip:80/live.ts?channelId=1709&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1709.ts
+#EXTINF:-1 tvg-id="SKY_EVENT_UK" tvg-name="SKY SPORT MAIN EVENT UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/sky-sports-main-event-tvlogo.png" group-title="SPORT" ,SKY SPORT MAIN EVENT UK
+http://client.nodomain.vip:80/live.ts?channelId=1710&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1710.ts
+#EXTINF:-1 tvg-id="PREMIER_LEAGUE" tvg-name="SKY SPORT PREMIER LEAGUE UK" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://s3.eu-west-1.amazonaws.com/entertainmentie/storage/television/tv-logos/sky-sports-premier-league-roi-tvlogo.png" group-title="SPORT" ,SKY SPORT PREMIER LEAGUE UK
+http://client.nodomain.vip:80/live.ts?channelId=1711&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1711.ts
+#EXTINF:-1 tvg-id="Rai_Sport" tvg-name="RAI SPORT 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai-sport1-loho.png" group-title="SPORT" ,RAI SPORT 1
+http://client.nodomain.vip:80/live.ts?channelId=1717&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1717.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_1_IT" tvg-name="SKY SPORT 1 HD IT" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_sport_1_it.png" group-title="SPORT" ,SKY SPORT 1 HD IT
+http://client.nodomain.vip:80/live.ts?channelId=1718&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1718.ts
+#EXTINF:-1 tvg-id="SKY_SPORT_2_IT" tvg-name="SKY SPORT 2 HD IT" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SKY SPORT 2 HD IT
+http://client.nodomain.vip:80/live.ts?channelId=1719&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1719.ts
+#EXTINF:-1 tvg-id="SKY_MOTO_GP_HD_IT" tvg-name="SKY MOTO GP HD IT" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SKY MOTO GP HD IT
+http://client.nodomain.vip:80/live.ts?channelId=1753&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1753.ts
+#EXTINF:-1 tvg-id="DIGI_SPORT_1_HD_RO" tvg-name="DIGI SPORT 1 HD RO" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,DIGI SPORT 1 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1832&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1832.ts
+#EXTINF:-1 tvg-id="DIGI_SPORT_2_HD_RO" tvg-name="DIGI SPORT 2 HD RO" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,DIGI SPORT 2 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1831&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1831.ts
+#EXTINF:-1 tvg-id="DIGI_SPORT_3_HD_RO" tvg-name="DIGI SPORT 3 HD RO" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,DIGI SPORT 3 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1833&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1833.ts
+#EXTINF:-1 tvg-id="DIGI_SPORT_4_HD_RO" tvg-name="DIGI SPORT 4 HD RO" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,DIGI SPORT 4 HD RO
+http://client.nodomain.vip:80/live.ts?channelId=1834&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1834.ts
+#EXTINF:-1 tvg-id="FOX_SPORTS_1" tvg-name="FOX SPORTS 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,FOX SPORTS 1
+http://client.nodomain.vip:80/live.ts?channelId=1721&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1721.ts
+#EXTINF:-1 tvg-id="FOX_SPORTS_2" tvg-name="FOX SPORTS 2" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,FOX SPORTS 2
+http://client.nodomain.vip:80/live.ts?channelId=1722&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1722.ts
+#EXTINF:-1 tvg-id="FOX_SPORTS_3" tvg-name="FOX SPORTS 3" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,FOX SPORTS 3
+http://client.nodomain.vip:80/live.ts?channelId=1723&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1723.ts
+#EXTINF:-1 tvg-id="FOX_SPORTS_4" tvg-name="FOX SPORTS 4" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,FOX SPORTS 4
+http://client.nodomain.vip:80/live.ts?channelId=1724&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1724.ts
+#EXTINF:-1 tvg-id="C_MORE_FOTBALL_SE" tvg-name="C MORE FOTBALL SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-c-more-fotboll-482.png" group-title="SPORT" ,C MORE FOTBALL SE
+http://client.nodomain.vip:80/live.ts?channelId=1725&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1725.ts
+#EXTINF:-1 tvg-id="C_MORE_GOLF_SE" tvg-name="C MORE GOLF SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-c-more-golf-481.png" group-title="SPORT" ,C MORE GOLF SE
+http://client.nodomain.vip:80/live.ts?channelId=1726&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1726.ts
+#EXTINF:-1 tvg-id="C_MORE_HOCKEY_SE" tvg-name="C MORE HOCKEY SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/c-more-hockey_logo.png" group-title="SPORT" ,C MORE HOCKEY SE
+http://client.nodomain.vip:80/live.ts?channelId=1727&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1727.ts
+#EXTINF:-1 tvg-id="C_MORE_SPORT_SE" tvg-name="C MORE SPORT SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-c-more-sport-480.png" group-title="SPORT" ,C MORE SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1728&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1728.ts
+#EXTINF:-1 tvg-id="C_MORE_LIVE_1" tvg-name="C MORE LIVE 1" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,C MORE LIVE 1
+http://client.nodomain.vip:80/live.ts?channelId=1840&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1840.ts
+#EXTINF:-1 tvg-id="C_MORE_LIVE_2" tvg-name="C MORE LIVE 2" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,C MORE LIVE 2
+http://client.nodomain.vip:80/live.ts?channelId=1841&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1841.ts
+#EXTINF:-1 tvg-id="C_MORE_LIVE_3" tvg-name="C MORE LIVE 3" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,C MORE LIVE 3
+http://client.nodomain.vip:80/live.ts?channelId=1842&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1842.ts
+#EXTINF:-1 tvg-id="C_MORE_LIVE_4" tvg-name="C MORE LIVE 4" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,C MORE LIVE 4
+http://client.nodomain.vip:80/live.ts?channelId=1843&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1843.ts
+#EXTINF:-1 tvg-id="C_MORE_LIVE_5" tvg-name="C MORE LIVE 5" tvg-link="" tvg-logo="/noicon.png" group-title="SPORT" ,C MORE LIVE 5
+http://client.nodomain.vip:80/live.ts?channelId=1844&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1844.ts
+#EXTINF:-1 tvg-id="TV3_SPORT_SE" tvg-name="TV3 SPORT SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-viasat-sport-extra-1918.png" group-title="SPORT" ,TV3 SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1731&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1731.ts
+#EXTINF:-1 tvg-id="VIASAT_FOTBOLL_SE" tvg-name="VIASAT FOTBOLL SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-viasat-fotball-494.png" group-title="SPORT" ,VIASAT FOTBOLL SE
+http://client.nodomain.vip:80/live.ts?channelId=1732&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1732.ts
+#EXTINF:-1 tvg-id="VIASAT_GOLF_SE" tvg-name="VIASAT GOLF SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-golf-488.png" group-title="SPORT" ,VIASAT GOLF SE
+http://client.nodomain.vip:80/live.ts?channelId=1733&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1733.ts
+#EXTINF:-1 tvg-id="VIASAT_MOTOR_SE" tvg-name="VIASAT MOTOR SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-motor-487.png" group-title="SPORT" ,VIASAT MOTOR SE
+http://client.nodomain.vip:80/live.ts?channelId=1735&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1735.ts
+#EXTINF:-1 tvg-id="VIASAT_SPORT_SE" tvg-name="VIASAT SPORT SE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-sport-533.png" group-title="SPORT" ,VIASAT SPORT SE
+http://client.nodomain.vip:80/live.ts?channelId=1736&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1736.ts
+#EXTINF:-1 tvg-id="VIASAT SPORT PREMIUM SE" tvg-name="VIASAT SPORT PREMIUM SE" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://sport-tv-guide.live/images/tv-station-se-viasat-sport-premium-493.png" group-title="SPORT" ,VIASAT SPORT PREMIUM SE
+http://client.nodomain.vip:80/live.ts?channelId=1737&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1737.ts
+#EXTINF:-1 tvg-id="supersport-1-al" tvg-name="SUPER SPORT 1 ALB" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="/noicon.png" group-title="SPORT" ,SUPER SPORT 1 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1738&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1738.ts
+#EXTINF:-1 tvg-id="supersport-2-al" tvg-name="SUPER SPORT 2 ALB" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="/noicon.png" group-title="SPORT" ,SUPER SPORT 2 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1739&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1739.ts
+#EXTINF:-1 tvg-id="supersport-3-al" tvg-name="SUPER SPORT 3 ALB" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="/noicon.png" group-title="SPORT" ,SUPER SPORT 3 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1740&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1740.ts
+#EXTINF:-1 tvg-id="supersport-4-al" tvg-name="SUPER SPORT 4 ALB" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="SPORT" ,SUPER SPORT 4 ALB
+http://client.nodomain.vip:80/live.ts?channelId=1741&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1741.ts
+#EXTINF:-1 tvg-id="ANDRIJA_I_ANDJELKA_24H" tvg-name="ANDRIJA I ANDJELKA 24H" tvg-link="" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,ANDRIJA I ANDJELKA 24H
+http://client.nodomain.vip:80/live.ts?channelId=1867&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1867.ts
+#EXTINF:-1 tvg-id="LUD_ZBUNJEN_NORMALAN_24H" tvg-name="LUD ZBUNJEN NORMALAN 24H" tvg-link="" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,LUD ZBUNJEN NORMALAN 24H
+http://client.nodomain.vip:80/live.ts?channelId=1866&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1866.ts
+#EXTINF:-1 tvg-id="FILMSKI_MARATON" tvg-name="FILMSKI MARATON" tvg-link="" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FILMSKI MARATON
+http://client.nodomain.vip:80/live.ts?channelId=1870&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1870.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 1 HD" tvg-name="MAXCRO SELECT 1 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1248&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1248.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 2  HD" tvg-name="MAXCRO SELECT 2 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1249&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1249.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 3  HD" tvg-name="MAXCRO SELECT 3 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1250&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1250.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 4  HD" tvg-name="MAXCRO SELECT 4 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1251&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1251.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 5  HD" tvg-name="MAXCRO SELECT 5 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 5 HD
+http://client.nodomain.vip:80/live.ts?channelId=1252&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1252.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 6  HD" tvg-name="MAXCRO SELECT 6 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 6 HD
+http://client.nodomain.vip:80/live.ts?channelId=1253&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1253.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 7  HD" tvg-name="MAXCRO SELECT 7 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 7 HD
+http://client.nodomain.vip:80/live.ts?channelId=1254&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1254.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 8  HD" tvg-name="MAXCRO SELECT 8 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 8 HD
+http://client.nodomain.vip:80/live.ts?channelId=1255&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1255.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 9  HD" tvg-name="MAXCRO SELECT 9 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 9 HD
+http://client.nodomain.vip:80/live.ts?channelId=1256&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1256.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 10  HD" tvg-name="MAXCRO SELECT 10 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 10 HD
+http://client.nodomain.vip:80/live.ts?channelId=1257&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1257.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT 11  HD" tvg-name="MAXCRO SELECT 11 HD" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,MAXCRO SELECT 11 HD
+http://client.nodomain.vip:80/live.ts?channelId=1669&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1669.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,AMC
+http://client.nodomain.vip:80/live.ts?channelId=611&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/611.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,AXN
+http://client.nodomain.vip:80/live.ts?channelId=122&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/122.ts
+#EXTINF:-1 tvg-id="AXN_SPIN" tvg-name="AXN SPIN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,AXN SPIN
+http://client.nodomain.vip:80/live.ts?channelId=612&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/612.ts
+#EXTINF:-1 tvg-id="CINESTAR_TV" tvg-name="CINESTAR TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv1.svg" group-title="FILM & SERIJE" ,CINESTAR TV
+http://client.nodomain.vip:80/live.ts?channelId=224&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/224.ts
+#EXTINF:-1 tvg-id="CINESTAR_TV_2" tvg-name="CINESTAR TV 2" tvg-link="" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/logos_tv2.svg" group-title="FILM & SERIJE" ,CINESTAR TV 2
+http://client.nodomain.vip:80/live.ts?channelId=1814&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1814.ts
+#EXTINF:-1 tvg-id="CINESTAR_ACTION" tvg-name="CINESTAR ACTION" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/action.svg" group-title="FILM & SERIJE" ,CINESTAR ACTION
+http://client.nodomain.vip:80/live.ts?channelId=268&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/268.ts
+#EXTINF:-1 tvg-id="CINESTAR_COMEDY" tvg-name="CINESTAR COMEDY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-comedy.svg" group-title="FILM & SERIJE" ,CINESTAR COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=1805&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1805.ts
+#EXTINF:-1 tvg-id="CINESTAR_FANTASY" tvg-name="CINESTAR FANTASY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-fantasy.svg" group-title="FILM & SERIJE" ,CINESTAR FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=607&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/607.ts
+#EXTINF:-1 tvg-id="CINESTAR_PREMIERE_1" tvg-name="CINESTAR PREMIERE 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere1.svg" group-title="FILM & SERIJE" ,CINESTAR PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=12&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/12.ts
+#EXTINF:-1 tvg-id="CINESTAR_PREMIERE_2" tvg-name="CINESTAR PREMIERE 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://cinestartvchannels.hr/wp-content/themes/cinestar-tv-channels/assets/img/logos/hd-premiere2.svg" group-title="FILM & SERIJE" ,CINESTAR PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=13&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/13.ts
+#EXTINF:-1 tvg-id="CINEMAX_1" tvg-name="CINEMAX 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,CINEMAX 1
+http://client.nodomain.vip:80/live.ts?channelId=14&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/14.ts
+#EXTINF:-1 tvg-id="CINEMAX_2" tvg-name="CINEMAX 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,CINEMAX 2
+http://client.nodomain.vip:80/live.ts?channelId=15&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/15.ts
+#EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,DIVA TV
+http://client.nodomain.vip:80/live.ts?channelId=1405&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1405.ts
+#EXTINF:-1 tvg-id="EPIC_DRAMA" tvg-name="EPIC DRAMA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,EPIC DRAMA
+http://client.nodomain.vip:80/live.ts?channelId=1402&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1402.ts
+#EXTINF:-1 tvg-id="FILMBOX_EXTRA" tvg-name="FILMBOX EXTRA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FILMBOX EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=586&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/586.ts
+#EXTINF:-1 tvg-id="FILMBOX_STARS" tvg-name="FILMBOX STARS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FILMBOX STARS
+http://client.nodomain.vip:80/live.ts?channelId=525&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/525.ts
+#EXTINF:-1 tvg-id="FILMBOX_PREMIUM" tvg-name="FILMBOX PREMIUM" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FILMBOX PREMIUM
+http://client.nodomain.vip:80/live.ts?channelId=1445&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1445.ts
+#EXTINF:-1 tvg-id="FILM_KLUB" tvg-name="FILM KLUB" tvg-link="" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FILM KLUB
+http://client.nodomain.vip:80/live.ts?channelId=1845&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1845.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png" group-title="FILM & SERIJE" ,HBO
+http://client.nodomain.vip:80/live.ts?channelId=44&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/44.ts
+#EXTINF:-1 tvg-id="HBO_2" tvg-name="HBO 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_ce.png" group-title="FILM & SERIJE" ,HBO 2
+http://client.nodomain.vip:80/live.ts?channelId=16&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/16.ts
+#EXTINF:-1 tvg-id="HBO_3" tvg-name="HBO 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo3_ce.png" group-title="FILM & SERIJE" ,HBO 3
+http://client.nodomain.vip:80/live.ts?channelId=73&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/73.ts
+#EXTINF:-1 tvg-id="KINO_TV" tvg-name="KINO TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,KINO TV
+http://client.nodomain.vip:80/live.ts?channelId=608&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/608.ts
+#EXTINF:-1 tvg-id="M1_GOLD" tvg-name="M1 GOLD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,M1 GOLD
+http://client.nodomain.vip:80/live.ts?channelId=1593&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1593.ts
+#EXTINF:-1 tvg-id="M1_FILM" tvg-name="M1 FILM" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,M1 FILM
+http://client.nodomain.vip:80/live.ts?channelId=379&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/379.ts
+#EXTINF:-1 tvg-id="SCI_FI" tvg-name="SCI FI" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,SCI FI
+http://client.nodomain.vip:80/live.ts?channelId=609&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/609.ts
+#EXTINF:-1 tvg-id="TV_1000" tvg-name="TV 1000" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,TV_1000
+http://client.nodomain.vip:80/live.ts?channelId=480&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/480.ts
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FOX
+http://client.nodomain.vip:80/live.ts?channelId=17&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/17.ts
+#EXTINF:-1 tvg-id="FOX_LIFE" tvg-name="FOX LIFE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FOX LIFE
+http://client.nodomain.vip:80/live.ts?channelId=19&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/19.ts
+#EXTINF:-1 tvg-id="FOX_CRIME" tvg-name="FOX CRIME" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FOX CRIME
+http://client.nodomain.vip:80/live.ts?channelId=18&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/18.ts
+#EXTINF:-1 tvg-id="FOX_MOVIES" tvg-name="FOX MOVIES" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,FOX MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=111&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/111.ts
+#EXTINF:-1 tvg-id="PICKBOX_TV" tvg-name="PICKBOX TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="FILM & SERIJE" ,PICKBOX TV
+http://client.nodomain.vip:80/live.ts?channelId=1211&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1211.ts
+#EXTINF:-1 tvg-id="SUPERSTAR_TV" tvg-name="SUPER STAR TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://superstartv.rs/wp-content/uploads/2019/03/superstar-tv-logo.png" group-title="FILM & SERIJE" ,SUPER STAR TV
+http://client.nodomain.vip:80/live.ts?channelId=1503&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1503.ts
+#EXTINF:-1 tvg-id="PINK_ZADRUGA_1" tvg-name="PINK ZADRUGA 1 24/7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/52/01/zadruga_live_1_384x216.png" group-title="PINK" ,PINK ZADRUGA 1 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1486&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1486.ts
+#EXTINF:-1 tvg-id="PINK_ZADRUGA_2" tvg-name="PINK ZADRUGA 2 24/7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/54/55/zadruga_live_2_384x216.png" group-title="PINK" ,PINK ZADRUGA 2 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1743&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1743.ts
+#EXTINF:-1 tvg-id="PINK_ZADRUGA_3" tvg-name="PINK ZADRUGA 3 24/7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/56/36/zadruga_live_3_384x216.png" group-title="PINK" ,PINK ZADRUGA 3 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1744&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1744.ts
+#EXTINF:-1 tvg-id="PINK_ZADRUGA_4" tvg-name="PINK ZADRUGA 4 24/7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/10/10/13/58/20/zadruga_live_4_384x216.png" group-title="PINK" ,PINK ZADRUGA 4 24/7
+http://client.nodomain.vip:80/live.ts?channelId=1745&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1745.ts
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PINK-logo.jpg" group-title="PINK" ,PINK
+http://client.nodomain.vip:80/live.ts?channelId=64&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/64.ts
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="PINK BH" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Media_BH_logo.png" group-title="PINK" ,PINK BH
+http://client.nodomain.vip:80/live.ts?channelId=1383&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1383.ts
+#EXTINF:-1 tvg-id="PINK_M" tvg-name="PINK M" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink_media_m.png" group-title="PINK" ,PINK M
+http://client.nodomain.vip:80/live.ts?channelId=1385&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1385.ts
+#EXTINF:-1 tvg-id="RED tv" tvg-name="RED TV (ex.Pink 2)" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Red-TV-Pink-Logo.png" group-title="PINK" ,RED TV (ex.Pink 2)
+http://client.nodomain.vip:80/live.ts?channelId=57&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/57.ts
+#EXTINF:-1 tvg-id="pink-3" tvg-name="PINK 3" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink3_Info_logo.png" group-title="PINK" ,PINK 3
+http://client.nodomain.vip:80/live.ts?channelId=60&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/60.ts
+#EXTINF:-1 tvg-id="PINK_ACTION" tvg-name="PINK ACTION" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-action-logo.png" group-title="PINK" ,PINK ACTION
+http://client.nodomain.vip:80/live.ts?channelId=32&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/32.ts
+#EXTINF:-1 tvg-id="PINK_CLASSIC" tvg-name="PINK CLASSIC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-classic-logo.png" group-title="PINK" ,PINK CLASSIC
+http://client.nodomain.vip:80/live.ts?channelId=494&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/494.ts
+#EXTINF:-1 tvg-id="PINK_COMEDY" tvg-name="PINK COMEDY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkComedy.png" group-title="PINK" ,PINK COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=50&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/50.ts
+#EXTINF:-1 tvg-id="PINK_CRIME_MYST" tvg-name="PINK CRIME MYSTERY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Crime_Mistery_logo.png" group-title="PINK" ,PINK CRIME MYSTERY
+http://client.nodomain.vip:80/live.ts?channelId=34&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/34.ts
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="PINK EXTRA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkExtra.png" group-title="PINK" ,PINK EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=227&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/227.ts
+#EXTINF:-1 tvg-id="pink-family" tvg-name="PINK FAMILY" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-family-logo.png" group-title="PINK" ,PINK FAMILY
+http://client.nodomain.vip:80/live.ts?channelId=1281&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1281.ts
+#EXTINF:-1 tvg-id="PINK_FILM" tvg-name="PINK FILM" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-film-logo.png" group-title="PINK" ,PINK FILM
+http://client.nodomain.vip:80/live.ts?channelId=120&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/120.ts
+#EXTINF:-1 tvg-id="PINK_HITS_2" tvg-name="PINK HITS 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2019/05/30/17/05/15/pink_hits_2_384x216.png" group-title="PINK" ,PINK HITS 2
+http://client.nodomain.vip:80/live.ts?channelId=182&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/182.ts
+#EXTINF:-1 tvg-id="PINK_HA" tvg-name="PINK HAHA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/HaHa.png" group-title="PINK" ,PINK HAHA
+http://client.nodomain.vip:80/live.ts?channelId=1283&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1283.ts
+#EXTINF:-1 tvg-id="PINK_HORROR" tvg-name="PINK HORROR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkHorror.png" group-title="PINK" ,PINK HORROR
+http://client.nodomain.vip:80/live.ts?channelId=223&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/223.ts
+#EXTINF:-1 tvg-id="PINK_KIDS" tvg-name="PINK KIDS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-kids-logo.png" group-title="PINK" ,PINK KIDS
+http://client.nodomain.vip:80/live.ts?channelId=147&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/147.ts
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="PINK LOL" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/LOL.png" group-title="PINK" ,PINK LOL
+http://client.nodomain.vip:80/live.ts?channelId=1282&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1282.ts
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="PINK KUVAR" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Kuvar_logo.png" group-title="PINK" ,PINK KUVAR
+http://client.nodomain.vip:80/live.ts?channelId=527&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/527.ts
+#EXTINF:-1 tvg-id="PINK_MOVIES" tvg-name="PINK MOVIES" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-movies-logo.png" group-title="PINK" ,PINK MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=532&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/532.ts
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="PINK PLUS" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkPlus.png" group-title="PINK" ,PINK PLUS
+http://client.nodomain.vip:80/live.ts?channelId=55&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/55.ts
+#EXTINF:-1 tvg-id="PINK_PREMIUM" tvg-name="PINK PREMIUM" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkPremium.png" group-title="PINK" ,PINK PREMIUM
+http://client.nodomain.vip:80/live.ts?channelId=31&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/31.ts
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="PINK REALITY" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkReality.png" group-title="PINK" ,PINK REALITY
+http://client.nodomain.vip:80/live.ts?channelId=63&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/63.ts
+#EXTINF:-1 tvg-id="PINK_ROMANCE" tvg-name="PINK ROMANCE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Romance_logo.png" group-title="PINK" ,PINK ROMANCE
+http://client.nodomain.vip:80/live.ts?channelId=46&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/46.ts
+#EXTINF:-1 tvg-id="PINK_SCI" tvg-name="PINK SCI-FI FANTASY" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK" ,PINK SCI-FI FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=66&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/66.ts
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="PINK SERIJE" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Serije_logo.png" group-title="PINK" ,PINK SERIJE
+http://client.nodomain.vip:80/live.ts?channelId=336&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/336.ts
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="PINK SOAP" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkSoap_logo2.png" group-title="PINK" ,PINK SOAP
+http://client.nodomain.vip:80/live.ts?channelId=181&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/181.ts
+#EXTINF:-1 tvg-id="PINK_THRILLER" tvg-name="PINK THRILLER" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Pink_Thriller_logo.png" group-title="PINK" ,PINK THRILLER
+http://client.nodomain.vip:80/live.ts?channelId=33&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/33.ts
+#EXTINF:-1 tvg-id="PINK_WESTERN" tvg-name="PINK WESTERN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-western-logo.jpg" group-title="PINK" ,PINK WESTERN
+http://client.nodomain.vip:80/live.ts?channelId=119&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/119.ts
+#EXTINF:-1 tvg-id="pink-world" tvg-name="PINK WORLD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pink-world-logo.png" group-title="PINK" ,PINK WORLD
+http://client.nodomain.vip:80/live.ts?channelId=154&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/154.ts
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="PINK ZABAVA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkZabava_logo.png" group-title="PINK" ,PINK ZABAVA
+http://client.nodomain.vip:80/live.ts?channelId=155&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/155.ts
+#EXTINF:-1 tvg-id="BALKANIKA" tvg-name="BALKANIKA" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/balkanika-logo.png" group-title="MUZIKA & ZABAVA" ,BALKANIKA
+http://client.nodomain.vip:80/live.ts?channelId=307&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/307.ts
+#EXTINF:-1 tvg-id="PINK_FOLK_1" tvg-name="PINK FOLK 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/PinkFolk1_logo.png" group-title="MUZIKA & ZABAVA" ,PINK FOLK 1
+http://client.nodomain.vip:80/live.ts?channelId=349&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/349.ts
+#EXTINF:-1 tvg-id="PINK_FOLK_2" tvg-name="PINK FOLK 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pinkFolk2_logo.png" group-title="MUZIKA & ZABAVA" ,PINK FOLK 2
+http://client.nodomain.vip:80/live.ts?channelId=148&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/148.ts
+#EXTINF:-1 tvg-id="bn-music" tvg-name="BN MUSIC" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/logo-www.bnmusic.org_logo.png" group-title="MUZIKA & ZABAVA" ,BN MUSIC
+http://client.nodomain.vip:80/live.ts?channelId=131&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/131.ts
+#EXTINF:-1 tvg-id="GRAND_TV" tvg-name="GRAND TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/16/01/19/grand_384x216.png" group-title="MUZIKA & ZABAVA" ,GRAND TV
+http://client.nodomain.vip:80/live.ts?channelId=95&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/95.ts
+#EXTINF:-1 tvg-id="GRAND_TV_2" tvg-name="GRAND TV 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/59/01/grand_2_384x216.png" group-title="MUZIKA & ZABAVA" ,GRAND TV 2
+http://client.nodomain.vip:80/live.ts?channelId=493&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/493.ts
+#EXTINF:-1 tvg-id="hayat-folk" tvg-name="HAYAT FOLK" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatfolk_logo.png" group-title="MUZIKA & ZABAVA" ,HAYAT FOLK
+http://client.nodomain.vip:80/live.ts?channelId=149&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/149.ts
+#EXTINF:-1 tvg-id="DM_SAT" tvg-name="DM SAT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dm-sat-logo.png" group-title="MUZIKA & ZABAVA" ,DM SAT
+http://client.nodomain.vip:80/live.ts?channelId=43&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/43.ts
+#EXTINF:-1 tvg-id="izvorna-tv" tvg-name="IZVORNA TV" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/IzvornaTV_logo.png" group-title="MUZIKA & ZABAVA" ,IZVORNA TV
+http://client.nodomain.vip:80/live.ts?channelId=295&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/295.ts
+#EXTINF:-1 tvg-id="JUGOTON" tvg-name="JUGOTON TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/jugoton-tv-logo.png" group-title="MUZIKA & ZABAVA" ,JUGOTON TV
+http://client.nodomain.vip:80/live.ts?channelId=542&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/542.ts
+#EXTINF:-1 tvg-id="DUGA_TV" tvg-name="DUGA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://lh3.googleusercontent.com/tfNjE2fNDWF6EnCkXNpfXbLOYiDFgl0T0ybnMV3uVyXQxFG49qs4woYiqtYPg0kQOtYO" group-title="MUZIKA & ZABAVA" ,DUGA TV
+http://client.nodomain.vip:80/live.ts?channelId=226&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/226.ts
+#EXTINF:-1 tvg-id="IDJ_TV" tvg-name="IDJ TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/51/07/idj_tv_hd_384x216.png" group-title="MUZIKA & ZABAVA" ,IDJ TV
+http://client.nodomain.vip:80/live.ts?channelId=485&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/485.ts
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CMC_TV_logo.png" group-title="MUZIKA & ZABAVA" ,CMC
+http://client.nodomain.vip:80/live.ts?channelId=1799&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1799.ts
+#EXTINF:-1 tvg-id="CMC" tvg-name="CMC HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/CMC_TV_logo.png" group-title="MUZIKA & ZABAVA" ,CMC HD
+http://client.nodomain.vip:80/live.ts?channelId=110&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/110.ts
+#EXTINF:-1 tvg-id="DMC" tvg-name="DMC TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/DMC_televizija_logo.png" group-title="MUZIKA & ZABAVA" ,DMC TV
+http://client.nodomain.vip:80/live.ts?channelId=1750&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1750.ts
+#EXTINF:-1 tvg-id="GLAS_DRINE" tvg-name="GLAS DRINE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://sviraradio.com/logo/134-radio-glas-drine.jpg" group-title="MUZIKA & ZABAVA" ,GLAS DRINE
+http://client.nodomain.vip:80/live.ts?channelId=1453&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1453.ts
+#EXTINF:-1 tvg-id="KCN" tvg-name="KCN" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kcn1-logo.png" group-title="MUZIKA & ZABAVA" ,KCN
+http://client.nodomain.vip:80/live.ts?channelId=338&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/338.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/19/mtv_384x216.png" group-title="MUZIKA & ZABAVA" ,MTV
+http://client.nodomain.vip:80/live.ts?channelId=85&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/85.ts
+#EXTINF:-1 tvg-id="MTV_HITS" tvg-name="MTV HITS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/29/mtv_hits_384x216.png" group-title="MUZIKA & ZABAVA" ,MTV HITS
+http://client.nodomain.vip:80/live.ts?channelId=595&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/595.ts
+#EXTINF:-1 tvg-id="MTV_BASE" tvg-name="MTV BASE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_base_fr.jpg" group-title="MUZIKA & ZABAVA" ,MTV BASE
+http://client.nodomain.vip:80/live.ts?channelId=1881&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1881.ts
+#EXTINF:-1 tvg-id="MTV_CLASSIC" tvg-name="MTV CLASSIC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_classic_uk.jpg" group-title="MUZIKA & ZABAVA" ,MTV CLASSIC
+http://client.nodomain.vip:80/live.ts?channelId=1882&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1882.ts
+#EXTINF:-1 tvg-id="MTV_DANCE" tvg-name="MTV DANCE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mtv_dance_uk.jpg" group-title="MUZIKA & ZABAVA" ,MTV DANCE
+http://client.nodomain.vip:80/live.ts?channelId=1883&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1883.ts
+#EXTINF:-1 tvg-id="NARODNA_TV" tvg-name="NARODNA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/narodni/10690-6-cro-HR/narodni_tvchannel_list.png" group-title="MUZIKA & ZABAVA" ,NARODNA TV
+http://client.nodomain.vip:80/live.ts?channelId=1432&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1432.ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/otv-valentino-logo.png" group-title="MUZIKA & ZABAVA" ,OTV
+http://client.nodomain.vip:80/live.ts?channelId=269&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/269.ts
+#EXTINF:-1 tvg-id="OTV_FOLK" tvg-name="OTV FOLK" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="MUZIKA & ZABAVA" ,OTV FOLK
+http://client.nodomain.vip:80/live.ts?channelId=1885&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1885.ts
+#EXTINF:-1 tvg-id="OTV_ETNO" tvg-name="OTV ETNO" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="MUZIKA & ZABAVA" ,OTV ETNO
+http://client.nodomain.vip:80/live.ts?channelId=1886&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1886.ts
+#EXTINF:-1 tvg-id="PRVA_HERCEGOVACKA" tvg-name="PRVA HERCEGOVACKA" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="MUZIKA & ZABAVA" ,PRVA HERCEGOVACKA
+http://client.nodomain.vip:80/live.ts?channelId=1884&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1884.ts
+#EXTINF:-1 tvg-id="BANOVINA" tvg-name="BANOVINA TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.bnet.hr/var/ezflow_site/storage/images/televizija/rtv_banovina/31833-6-cro-HR/rtv_banovina_tvchannel_list.png" group-title="MUZIKA & ZABAVA" ,BANOVINA TV
+http://client.nodomain.vip:80/live.ts?channelId=443&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/443.ts
+#EXTINF:-1 tvg-id="POSAVINA_TV" tvg-name="POSAVINA TV" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/08/29/17/37/41/posavina_tv_384x216.png" group-title="MUZIKA & ZABAVA" ,POSAVINA TV
+http://client.nodomain.vip:80/live.ts?channelId=309&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/309.ts
+#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS MUZIKA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RTS_Muzika_logo.png" group-title="MUZIKA & ZABAVA" ,RTS MUZIKA
+http://client.nodomain.vip:80/live.ts?channelId=1495&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1495.ts
+#EXTINF:-1 tvg-id="TOP_SOUND" tvg-name="TOP SOUND" tvg-link="http://guide.smart-iptvpro.info/client-nod-EPG.xml" tvg-logo="/noicon.png" group-title="MUZIKA & ZABAVA" ,TOP SOUND
+http://client.nodomain.vip:80/live.ts?channelId=1587&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1587.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/22/vh1_384x216.png" group-title="MUZIKA & ZABAVA" ,VH1
+http://client.nodomain.vip:80/live.ts?channelId=594&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/594.ts
+#EXTINF:-1 tvg-id="VH1_CLASSIC" tvg-name="VH1 CLASSIC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/55/33/vh1_classic_384x216.png" group-title="MUZIKA & ZABAVA" ,VH1 CLASSIC
+http://client.nodomain.vip:80/live.ts?channelId=1781&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1781.ts
+#EXTINF:-1 tvg-id="MINIMAX" tvg-name="MINIMAX" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/53/53/minimax_384x216.png" group-title="KIDS" ,MINIMAX
+http://client.nodomain.vip:80/live.ts?channelId=1168&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1168.ts
+#EXTINF:-1 tvg-id="NICK_JR" tvg-name="NICK JR" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/06/nick_jr_384x216.png" group-title="KIDS" ,NICK JR
+http://client.nodomain.vip:80/live.ts?channelId=358&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/358.ts
+#EXTINF:-1 tvg-id="NICKELODEON_HR" tvg-name="NICKELODEON" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/04/16/14/06/39/384x216.png" group-title="KIDS" ,NICKELODEON
+http://client.nodomain.vip:80/live.ts?channelId=94&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/94.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL KOCKICA" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png" group-title="KIDS" ,RTL KOCKICA
+http://client.nodomain.vip:80/live.ts?channelId=8&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/8.ts
+#EXTINF:-1 tvg-id="rtl-kockica" tvg-name="RTL KOCKICA HD" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-kockica-logo.png" group-title="KIDS" ,RTL KOCKICA HD
+http://client.nodomain.vip:80/live.ts?channelId=1779&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1779.ts
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,KIDS
+http://client.nodomain.vip:80/live.ts?channelId=125&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/125.ts
+#EXTINF:-1 tvg-id="KIDS_MIX_1" tvg-name="KIDS MIX 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,KIDS MIX 1
+http://client.nodomain.vip:80/live.ts?channelId=282&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/282.ts
+#EXTINF:-1 tvg-id="KIDS_MIX_2" tvg-name="KIDS MIX 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,KIDS MIX 2
+http://client.nodomain.vip:80/live.ts?channelId=283&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/283.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/04/boomerang_384x216.png" group-title="KIDS" ,BOOMERANG
+http://client.nodomain.vip:80/live.ts?channelId=1169&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1169.ts
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="HAYATOVCI" tvg-link="https://tvprofil.net/api/xmltv/epg/?accessKey=alen7713F9o5tk5U91udGf" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/hayatovci-logo.png" group-title="KIDS" ,HAYATOVCI
+http://client.nodomain.vip:80/live.ts?channelId=109&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/109.ts
+#EXTINF:-1 tvg-id="IDJ_KIDS" tvg-name="IDJ KIDS" tvg-link="" tvg-logo="/noicon.png" group-title="KIDS" ,IDJ KIDS
+http://client.nodomain.vip:80/live.ts?channelId=1868&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1868.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT KIDS  HD" tvg-name="MAXCRO SELECT KIDS HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,MAXCRO SELECT KIDS HD
+http://client.nodomain.vip:80/live.ts?channelId=1670&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1670.ts
+#EXTINF:-1 tvg-id="MAXCRO SELECT KIDS 2  HD" tvg-name="MAXCRO SELECT KIDS 2 HD" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,MAXCRO SELECT KIDS 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1671&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1671.ts
+#EXTINF:-1 tvg-id="MASA_I_MEDO" tvg-name="MASA I MEDO" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,MASA I MEDO
+http://client.nodomain.vip:80/live.ts?channelId=1386&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1386.ts
+#EXTINF:-1 tvg-id="PEPPA_PIG" tvg-name="PEPPA PIG" tvg-link="" tvg-logo="/noicon.png" group-title="KIDS" ,PEPPA PIG
+http://client.nodomain.vip:80/live.ts?channelId=1869&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1869.ts
+#EXTINF:-1 tvg-id="Pikaboo" tvg-name="PIKABOO" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/12/01/18/38/39/pikaboo_384x216.png" group-title="KIDS" ,PIKABOO
+http://client.nodomain.vip:80/live.ts?channelId=1393&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1393.ts
+#EXTINF:-1 tvg-id="TOM_AND_DZERY_24h" tvg-name="TOM AND DZERY 24h" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,TOM AND DZERY 24h
+http://client.nodomain.vip:80/live.ts?channelId=305&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/305.ts
+#EXTINF:-1 tvg-id="Vavoom" tvg-name="VAWOM TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="KIDS" ,VAWOM TV
+http://client.nodomain.vip:80/live.ts?channelId=1467&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1467.ts
+#EXTINF:-1 tvg-id="DAS_ERSTE" tvg-name="DAS ERSTE DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/519Cs8XQ2bL._SY355_.png" group-title="GERMANY" ,DAS ERSTE DE
+http://client.nodomain.vip:80/live.ts?channelId=534&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/534.ts
+#EXTINF:-1 tvg-id="ZDF_DE" tvg-name="ZDF DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/zdf-logo.png" group-title="GERMANY" ,ZDF DE
+http://client.nodomain.vip:80/live.ts?channelId=378&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/378.ts
+#EXTINF:-1 tvg-id="RTL_DE" tvg-name="RTL DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl-logo.png" group-title="GERMANY" ,RTL DE
+http://client.nodomain.vip:80/live.ts?channelId=284&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/284.ts
+#EXTINF:-1 tvg-id="RTL_DE" tvg-name="RTL UHD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.tvbeurope.com/wp-content/uploads/2019/03/RTL-UHD.jpg" group-title="GERMANY" ,RTL UHD DE
+http://client.nodomain.vip:80/live.ts?channelId=1806&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1806.ts
+#EXTINF:-1 tvg-id="RTL_2_DE" tvg-name="RTL 2 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl_zwei.png" group-title="GERMANY" ,RTL 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=327&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/327.ts
+#EXTINF:-1 tvg-id="KABEL_1_DE" tvg-name="KABEL 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kabel1-logo.png" group-title="GERMANY" ,KABEL 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=337&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/337.ts
+#EXTINF:-1 tvg-id="PRO_7" tvg-name="PRO 7" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/pro7-logo.png" group-title="GERMANY" ,PRO 7
+http://client.nodomain.vip:80/live.ts?channelId=302&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/302.ts
+#EXTINF:-1 tvg-id="PRO7_MAXX" tvg-name="PRO7 MAXX DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_sieben_maxx_de.jpg" group-title="GERMANY" ,PRO7 MAXX DE
+http://client.nodomain.vip:80/live.ts?channelId=515&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/515.ts
+#EXTINF:-1 tvg-id="SAT_1_DE" tvg-name="SAT 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sat1-logo.png" group-title="GERMANY" ,SAT 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=377&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/377.ts
+#EXTINF:-1 tvg-id="SAT_1_GOLD" tvg-name="SAT 1 GOLD" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sat1gold-logo.png" group-title="GERMANY" ,SAT 1 GOLD
+http://client.nodomain.vip:80/live.ts?channelId=1295&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1295.ts
+#EXTINF:-1 tvg-id="VOX_DE" tvg-name="VOX DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/vox-logo.png" group-title="GERMANY" ,VOX DE
+http://client.nodomain.vip:80/live.ts?channelId=72&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/72.ts
+#EXTINF:-1 tvg-id="3SAT" tvg-name="3SAT DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/3sat-logo.png" group-title="GERMANY" ,3SAT DE
+http://client.nodomain.vip:80/live.ts?channelId=516&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/516.ts
+#EXTINF:-1 tvg-id="DISCOVERY_DE" tvg-name="DISCOVERY DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_de.jpg" group-title="GERMANY" ,DISCOVERY DE
+http://client.nodomain.vip:80/live.ts?channelId=270&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/270.ts
+#EXTINF:-1 tvg-id="HISTORY_DE" tvg-name="HISTORY DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_de_hd.jpg" group-title="GERMANY" ,HISTORY DE
+http://client.nodomain.vip:80/live.ts?channelId=520&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/520.ts
+#EXTINF:-1 tvg-id="NAT_GEO_DE" tvg-name="NAT GEO DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/national_geographic_de.png" group-title="GERMANY" ,NAT GEO DE
+http://client.nodomain.vip:80/live.ts?channelId=191&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/191.ts
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_DE" tvg-name="NAT GEO WILD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_de.jpg" group-title="GERMANY" ,NAT GEO WILD DE
+http://client.nodomain.vip:80/live.ts?channelId=192&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/192.ts
+#EXTINF:-1 tvg-id="ANIMAL_PLANET_DE" tvg-name="ANIMAL PLANET DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/animal_planet_poland.png" group-title="GERMANY" ,ANIMAL PLANET DE
+http://client.nodomain.vip:80/live.ts?channelId=1571&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1571.ts
+#EXTINF:-1 tvg-id="13TH_STREET" tvg-name="13TH STREET DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/13th_street_universal_de.jpg" group-title="GERMANY" ,13TH STREET DE
+http://client.nodomain.vip:80/live.ts?channelId=531&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/531.ts
+#EXTINF:-1 tvg-id="ATV_DE" tvg-name="ATV DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/atv-logo.png" group-title="GERMANY" ,ATV DE
+http://client.nodomain.vip:80/live.ts?channelId=1133&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1133.ts
+#EXTINF:-1 tvg-id="ATV2_DE" tvg-name="ATV 2 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/atv2-logo.png" group-title="GERMANY" ,ATV 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=1485&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1485.ts
+#EXTINF:-1 tvg-id="ARTE_DE" tvg-name="ARTE DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/arte-logo.png" group-title="GERMANY" ,ARTE DE
+http://client.nodomain.vip:80/live.ts?channelId=533&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/533.ts
+#EXTINF:-1 tvg-id="PHOENIX_DE" tvg-name="PHOENIX DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/phoenix_de.jpg" group-title="GERMANY" ,PHOENIX DE
+http://client.nodomain.vip:80/live.ts?channelId=1877&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1877.ts
+#EXTINF:-1 tvg-id="TAGESSCHAU_24" tvg-name="TAGESSCHAU 24" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tagesschau24.jpg" group-title="GERMANY" ,TAGESSCHAU 24
+http://client.nodomain.vip:80/live.ts?channelId=1878&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1878.ts
+#EXTINF:-1 tvg-id="NDR_DE" tvg-name="NDR DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ndr_fernsehen.jpg" group-title="GERMANY" ,NDR DE
+http://client.nodomain.vip:80/live.ts?channelId=1879&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1879.ts
+#EXTINF:-1 tvg-id="SWR_DE" tvg-name="SWR DE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/swr_fernsehen.jpg" group-title="GERMANY" ,SWR DE
+http://client.nodomain.vip:80/live.ts?channelId=1880&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1880.ts
+#EXTINF:-1 tvg-id="CARTOON_NETWORK_DE" tvg-name="CARTOON NETWORK DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cartoon_network_de.jpg" group-title="GERMANY" ,CARTOON NETWORK DE
+http://client.nodomain.vip:80/live.ts?channelId=1218&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1218.ts
+#EXTINF:-1 tvg-id="DISNEY_CINEMA_DE" tvg-name="DISNEY CINEMAGIC DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_cinemagic_de.jpg" group-title="GERMANY" ,DISNEY CINEMAGIC DE
+http://client.nodomain.vip:80/live.ts?channelId=529&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/529.ts
+#EXTINF:-1 tvg-id="DISNEY_JUNIOR_DE" tvg-name="DISNEY JUNIOR DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_de.jpg" group-title="GERMANY" ,DISNEY JUNIOR DE
+http://client.nodomain.vip:80/live.ts?channelId=1302&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1302.ts
+#EXTINF:-1 tvg-id="DISNEY_DE" tvg-name="DISNEY XD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/disney_xd_de.png" group-title="GERMANY" ,DISNEY XD DE
+http://client.nodomain.vip:80/live.ts?channelId=1749&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1749.ts
+#EXTINF:-1 tvg-id="DMAX_DE" tvg-name="DMAX DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/dmax_de_logo.png" group-title="GERMANY" ,DMAX DE
+http://client.nodomain.vip:80/live.ts?channelId=463&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/463.ts
+#EXTINF:-1 tvg-id="E_!_DE" tvg-name="E! DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/58/57/e_entertainment_384x216.png" group-title="GERMANY" ,E! DE
+http://client.nodomain.vip:80/live.ts?channelId=1298&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1298.ts
+#EXTINF:-1 tvg-id="KIKA_DE" tvg-name="KIKA DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/kika-logo.png" group-title="GERMANY" ,KIKA DE
+http://client.nodomain.vip:80/live.ts?channelId=90&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/90.ts
+#EXTINF:-1 tvg-id="KRONEHIT_TV" tvg-name="KRONEHIT TV DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://iptv.live/images/logo/channel/crops/2523361604f5bf7d758eea454db3f39f.png" group-title="GERMANY" ,KRONEHIT TV DE
+http://client.nodomain.vip:80/live.ts?channelId=1656&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1656.ts
+#EXTINF:-1 tvg-id="N24_DE" tvg-name="N24 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/n24_de.jpg" group-title="GERMANY" ,N24_DE
+http://client.nodomain.vip:80/live.ts?channelId=1136&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1136.ts
+#EXTINF:-1 tvg-id="NICKELODEON_DE" tvg-name="NICKELODEON DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2018/04/16/14/06/39/384x216.png" group-title="GERMANY" ,NICKELODEON DE
+http://client.nodomain.vip:80/live.ts?channelId=1301&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1301.ts
+#EXTINF:-1 tvg-id="ORF1" tvg-name="ORF 1" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tv.orf.at/imagesv2/tv_logo_orf1_hl.png" group-title="GERMANY" ,ORF 1
+http://client.nodomain.vip:80/live.ts?channelId=301&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/301.ts
+#EXTINF:-1 tvg-id="ORF2" tvg-name="ORF 2" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tv.orf.at/imagesv2/tv_logo_orf2_hl.png" group-title="GERMANY" ,ORF 2
+http://client.nodomain.vip:80/live.ts?channelId=303&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/303.ts
+#EXTINF:-1 tvg-id="ORF3" tvg-name="ORF 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/orf3.jpg" group-title="GERMANY" ,ORF 3
+http://client.nodomain.vip:80/live.ts?channelId=1890&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1890.ts
+#EXTINF:-1 tvg-id="OE24" tvg-name="OE24 AU" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,OE24 AU
+http://client.nodomain.vip:80/live.ts?channelId=1891&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1891.ts
+#EXTINF:-1 tvg-id="PULS_4_DE" tvg-name="PULS 4 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Puls4_2016.svg/revision/latest/scale-to-width-down/340?cb=20181106205631" group-title="GERMANY" ,PULS 4 DE
+http://client.nodomain.vip:80/live.ts?channelId=1294&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1294.ts
+#EXTINF:-1 tvg-id="RTL_CRIME_DE" tvg-name="RTL CRIME DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl_crime_de_logo.png" group-title="GERMANY" ,RTL CRIME DE
+http://client.nodomain.vip:80/live.ts?channelId=1461&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1461.ts
+#EXTINF:-1 tvg-id="RTL_LIVINIG_DE" tvg-name="RTL LIVING DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtl_living_de.png" group-title="GERMANY" ,RTL LIVING DE
+http://client.nodomain.vip:80/live.ts?channelId=1462&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1462.ts
+#EXTINF:-1 tvg-id="RTL_NITRO" tvg-name="RTL NITRO DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl_nitro_de.jpg" group-title="GERMANY" ,RTL NITRO DE
+http://client.nodomain.vip:80/live.ts?channelId=513&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/513.ts
+#EXTINF:-1 tvg-id="RTL_PASSION_DE" tvg-name="RTL PASSION DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl_passion.jpg" group-title="GERMANY" ,RTL PASSION DE
+http://client.nodomain.vip:80/live.ts?channelId=514&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/514.ts
+#EXTINF:-1 tvg-id="RTL_PLUS_DE" tvg-name="RTL PLUS DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtl_plus.jpg" group-title="GERMANY" ,RTL PLUS DE
+http://client.nodomain.vip:80/live.ts?channelId=1296&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1296.ts
+#EXTINF:-1 tvg-id="SERVUS_DE" tvg-name="SERVUS DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/servus_tv_de.jpg" group-title="GERMANY" ,SERVUS DE
+http://client.nodomain.vip:80/live.ts?channelId=1299&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1299.ts
+#EXTINF:-1 tvg-id="SIXX_DE" tvg-name="SIXX DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sixx.jpg" group-title="GERMANY" ,SIXX DE
+http://client.nodomain.vip:80/live.ts?channelId=535&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/535.ts
+#EXTINF:-1 tvg-id="SPIEGEL_GESCHICHTE_DE" tvg-name="SPIEGEL GESCHICHTE DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/84_sky_logo_spiegelgeschichte_b.png" group-title="GERMANY" ,SPIEGEL GESCHICHTE DE
+http://client.nodomain.vip:80/live.ts?channelId=1140&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1140.ts
+#EXTINF:-1 tvg-id="SRF1" tvg-name="SRF 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/srf_1_ch.png" group-title="GERMANY" ,SRF 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=1134&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1134.ts
+#EXTINF:-1 tvg-id="SRF2" tvg-name="SRF 2 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/srf_2_ch.png" group-title="GERMANY" ,SRF 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=1135&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1135.ts
+#EXTINF:-1 tvg-id="SUPER_RTL_DE" tvg-name="SUPER RTL DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/super-rtl-de.png" group-title="GERMANY" ,SUPER RTL DE
+http://client.nodomain.vip:80/live.ts?channelId=328&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/328.ts
+#EXTINF:-1 tvg-id="SYFY_DE" tvg-name="SYFY DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/115_sky_logo_syfyhd_b.png" group-title="GERMANY" ,SYFY DE
+http://client.nodomain.vip:80/live.ts?channelId=329&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/329.ts
+#EXTINF:-1 tvg-id="TELE_5_DE" tvg-name="TELE 5 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele5_de.jpg" group-title="GERMANY" ,TELE 5 DE
+http://client.nodomain.vip:80/live.ts?channelId=1142&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1142.ts
+#EXTINF:-1 tvg-id="TLC_DE" tvg-name="TLC DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2017/07/21/15/54/41/tlc_384x216.png" group-title="GERMANY" ,TLC DE
+http://client.nodomain.vip:80/live.ts?channelId=1297&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1297.ts
+#EXTINF:-1 tvg-id="TNT_FILM" tvg-name="TNT FILM DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/762_sky_logo_tntfilm.png" group-title="GERMANY" ,TNT FILM DE
+http://client.nodomain.vip:80/live.ts?channelId=517&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/517.ts
+#EXTINF:-1 tvg-id="TNT_SERIE" tvg-name="TNT SERIE DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/6_sky_logo_tntseriehd.png" group-title="GERMANY" ,TNT SERIE DE
+http://client.nodomain.vip:80/live.ts?channelId=518&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/518.ts
+#EXTINF:-1 tvg-id="UNIVERSAL_CHANNEL_DE" tvg-name="UNIVERSAL CHANNEL DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/172_sky_logo_universalchannelhd_b.png" group-title="GERMANY" ,UNIVERSAL CHANNEL DE
+http://client.nodomain.vip:80/live.ts?channelId=1141&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1141.ts
+#EXTINF:-1 tvg-id="WDR_DE" tvg-name="WDR DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/wdr_fernsehen_hd.jpg" group-title="GERMANY" ,WDR DE
+http://client.nodomain.vip:80/live.ts?channelId=1137&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1137.ts
+#EXTINF:-1 tvg-id="SKY_1_DE" tvg-name="SKY 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/535_sky_logo_sky1-hd_tvguide.png" group-title="GERMANY" ,SKY 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=1138&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1138.ts
+#EXTINF:-1 tvg-id="SKY_ACTION_DE" tvg-name="SKY ACTION DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/59_sky_logo_skyaction_tvguide.png" group-title="GERMANY" ,SKY ACTION DE
+http://client.nodomain.vip:80/live.ts?channelId=151&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/151.ts
+#EXTINF:-1 tvg-id="SKY_ATLANTIC_DE" tvg-name="SKY ATLANTIC DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_atlantic_de.png" group-title="GERMANY" ,SKY ATLANTIC DE
+http://client.nodomain.vip:80/live.ts?channelId=157&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/157.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_DE" tvg-name="SKY CINEMA DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/55_sky_logo_skycinema_tvguide.png" group-title="GERMANY" ,SKY CINEMA DE
+http://client.nodomain.vip:80/live.ts?channelId=152&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/152.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_24_DE" tvg-name="SKY CINEMA +24 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/58_sky_logo_skycinema24_tvguide.png" group-title="GERMANY" ,SKY CINEMA +24 DE
+http://client.nodomain.vip:80/live.ts?channelId=189&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/189.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_FAMILY_DE" tvg-name="SKY CINEMA FAMILY DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/532_sky_logo_skyfamily.png" group-title="GERMANY" ,SKY CINEMA FAMILY DE
+http://client.nodomain.vip:80/live.ts?channelId=1304&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1304.ts
+#EXTINF:-1 tvg-id="SKY_COMEDY_DE" tvg-name="SKY CINEMA COMEDY DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/61_sky_logo_skycomedy_tvguide.png" group-title="GERMANY" ,SKY CINEMA COMEDY DE
+http://client.nodomain.vip:80/live.ts?channelId=150&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/150.ts
+#EXTINF:-1 tvg-id="SKY_EMOTION_DE" tvg-name="SKY CINEMA EMOTION DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/62_sky_logo_skyemotion_tvguide.png" group-title="GERMANY" ,SKY CINEMA EMOTION DE
+http://client.nodomain.vip:80/live.ts?channelId=161&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/161.ts
+#EXTINF:-1 tvg-id="SKY_FOX_DE" tvg-name="SKY FOX DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/4_sky_logo_foxhd.png" group-title="GERMANY" ,SKY FOX DE
+http://client.nodomain.vip:80/live.ts?channelId=476&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/476.ts
+#EXTINF:-1 tvg-id="SKY_HITS_DE" tvg-name="SKY CINEMA HITS DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/64_sky_logo_skyhits_tvguide.png" group-title="GERMANY" ,SKY CINEMA HITS DE
+http://client.nodomain.vip:80/live.ts?channelId=156&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/156.ts
+#EXTINF:-1 tvg-id="SKY_KRIMI" tvg-name="SKY KRIMI DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/753_sky_logo_skykrimi_hd_tvguide.png" group-title="GERMANY" ,SKY KRIMI DE
+http://client.nodomain.vip:80/live.ts?channelId=530&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/530.ts
+#EXTINF:-1 tvg-id="SKY_NOSTALGIE_DE" tvg-name="SKY CINEMA NOSTALGIE DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/636_sky_logo_skynostalgie_tvguide.png" group-title="GERMANY" ,SKY CINEMA NOSTALGIE DE
+http://client.nodomain.vip:80/live.ts?channelId=1139&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1139.ts
+#EXTINF:-1 tvg-id="SKY_ROMANCE_DE" tvg-name="SKY ROMANCE TV" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY ROMANCE TV
+http://client.nodomain.vip:80/live.ts?channelId=1518&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1518.ts
+#EXTINF:-1 tvg-id="SKY_POPCORN_SELECT_1_HD_DE" tvg-name="SKY POPCORN SELECT 1 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY POPCORN SELECT 1 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1219&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1219.ts
+#EXTINF:-1 tvg-id="SKY_POPCORN_SELECT_2_HD_DE" tvg-name="SKY POPCORN SELECT 2 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY POPCORN SELECT 2 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1220&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1220.ts
+#EXTINF:-1 tvg-id="SKY_POPCORN_SELECT_3_HD_DE" tvg-name="SKY POPCORN SELECT 3 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY POPCORN SELECT 3 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1221&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1221.ts
+#EXTINF:-1 tvg-id="SKY_POPCORN_SELECT_4_HD_DE" tvg-name="SKY POPCORN SELECT 4 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY POPCORN SELECT 4 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1222&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1222.ts
+#EXTINF:-1 tvg-id="SKY_POPCORN_SELECT_5_HD_DE" tvg-name="SKY POPCORN SELECT 5 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY POPCORN SELECT 5 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1223&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1223.ts
+#EXTINF:-1 tvg-id="SKY_POPCORN_SELECT_6_HD_DE" tvg-name="SKY POPCORN SELECT 6 HD DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY POPCORN SELECT 6 HD DE
+http://client.nodomain.vip:80/live.ts?channelId=1224&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1224.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_1" tvg-name="SKY SELECT 1 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/102_sky_logo_skyselect1_b.png" group-title="GERMANY" ,SKY SELECT 1 DE
+http://client.nodomain.vip:80/live.ts?channelId=488&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/488.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_2" tvg-name="SKY SELECT 2 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/103_sky_logo_skyselect2_b.png" group-title="GERMANY" ,SKY SELECT 2 DE
+http://client.nodomain.vip:80/live.ts?channelId=489&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/489.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_3" tvg-name="SKY SELECT 3 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/104_sky_logo_skyselect3_b.png" group-title="GERMANY" ,SKY SELECT 3 DE
+http://client.nodomain.vip:80/live.ts?channelId=490&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/490.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_4" tvg-name="SKY SELECT 4 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/105_sky_logo_skyselect4_b.png" group-title="GERMANY" ,SKY SELECT 4 DE
+http://client.nodomain.vip:80/live.ts?channelId=491&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/491.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_5" tvg-name="SKY SELECT 5 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/106_sky_logo_skyselect5_b.png" group-title="GERMANY" ,SKY SELECT 5 DE
+http://client.nodomain.vip:80/live.ts?channelId=521&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/521.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_6" tvg-name="SKY SELECT 6 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/107_sky_logo_skyselect6_b.png" group-title="GERMANY" ,SKY SELECT 6 DE
+http://client.nodomain.vip:80/live.ts?channelId=522&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/522.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_7" tvg-name="SKY SELECT 7 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/108_sky_logo_skyselect7_b.png" group-title="GERMANY" ,SKY SELECT 7 DE
+http://client.nodomain.vip:80/live.ts?channelId=523&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/523.ts
+#EXTINF:-1 tvg-id="SKY_SELECT_8" tvg-name="SKY SELECT 8 DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/109_sky_logo_skyselect8_b.png" group-title="GERMANY" ,SKY SELECT 8 DE
+http://client.nodomain.vip:80/live.ts?channelId=524&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/524.ts
+#EXTINF:-1 tvg-id="SKY_SONY_DE" tvg-name="SKY SONY DE" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,SKY SONY DE
+http://client.nodomain.vip:80/live.ts?channelId=1303&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1303.ts
+#EXTINF:-1 tvg-id="TELECLUB_EMOTION_CH" tvg-name="TELECLUB EMOTION CH" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,TELECLUB EMOTION CH
+http://client.nodomain.vip:80/live.ts?channelId=1557&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1557.ts
+#EXTINF:-1 tvg-id="TELECLUB_STAR" tvg-name="TELECLUB CINEMA CH" tvg-link="http://vod4.nodomain.vip/guide1.xml" tvg-logo="/noicon.png" group-title="GERMANY" ,TELECLUB CINEMA CH
+http://client.nodomain.vip:80/live.ts?channelId=1558&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1558.ts
+#EXTINF:-1 tvg-id="RAI_1" tvg-name="RAI 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai1-logo.png" group-title="ITALY" ,RAI 1
+http://client.nodomain.vip:80/live.ts?channelId=456&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/456.ts
+#EXTINF:-1 tvg-id="RAI_2" tvg-name="RAI 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai2-logo.png" group-title="ITALY" ,RAI 2
+http://client.nodomain.vip:80/live.ts?channelId=457&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/457.ts
+#EXTINF:-1 tvg-id="RAI_3" tvg-name="RAI 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai3-logo.png" group-title="ITALY" ,RAI 3
+http://client.nodomain.vip:80/live.ts?channelId=458&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/458.ts
+#EXTINF:-1 tvg-id="RAI_4" tvg-name="RAI 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai_4.png" group-title="ITALY" ,RAI 4
+http://client.nodomain.vip:80/live.ts?channelId=1569&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1569.ts
+#EXTINF:-1 tvg-id="RAI_MOVIE" tvg-name="RAI MOVIE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RaiMovie-logo.png" group-title="ITALY" ,RAI MOVIE
+http://client.nodomain.vip:80/live.ts?channelId=1570&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1570.ts
+#EXTINF:-1 tvg-id="Rete_4" tvg-name="RETE 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_rete4.jpg" group-title="ITALY" ,RETE 4
+http://client.nodomain.vip:80/live.ts?channelId=462&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/462.ts
+#EXTINF:-1 tvg-id="Canale_5" tvg-name="CANALE 5" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_canale5.jpg" group-title="ITALY" ,CANALE 5
+http://client.nodomain.vip:80/live.ts?channelId=461&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/461.ts
+#EXTINF:-1 tvg-id="Italia_1" tvg-name="ITALIA 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_italia1.jpg" group-title="ITALY" ,ITALIA 1
+http://client.nodomain.vip:80/live.ts?channelId=566&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/566.ts
+#EXTINF:-1 tvg-id="RSI_LA_1_HD_IT" tvg-name="RSI LA 1 HD IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rsi_la_1_logo.png" group-title="ITALY" ,RSI LA 1 HD IT
+http://client.nodomain.vip:80/live.ts?channelId=564&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/564.ts
+#EXTINF:-1 tvg-id="DISCOVERY_IT" tvg-name="DISCOVERY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="ITALY" ,DISCOVERY IT
+http://client.nodomain.vip:80/live.ts?channelId=563&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/563.ts
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_IT" tvg-name="NAT GEO WILD IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/national_geographic_wild_eu.png" group-title="ITALY" ,NAT GEO WILD IT
+http://client.nodomain.vip:80/live.ts?channelId=562&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/562.ts
+#EXTINF:-1 tvg-id="PREMIUM_ACTION_IT" tvg-name="PREMIUM ACTION IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_action_logo.png" group-title="ITALY" ,PREMIUM ACTION IT
+http://client.nodomain.vip:80/live.ts?channelId=558&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/558.ts
+#EXTINF:-1 tvg-id="PREMIUM_CINEMA_IT" tvg-name="PREMIUM CINEMA IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_logo.png" group-title="ITALY" ,PREMIUM CINEMA IT
+http://client.nodomain.vip:80/live.ts?channelId=556&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/556.ts
+#EXTINF:-1 tvg-id="PREMIUM_COMEDY_IT" tvg-name="PREMIUM COMEDY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_comedy_logo.png" group-title="ITALY" ,PREMIUM COMEDY IT
+http://client.nodomain.vip:80/live.ts?channelId=567&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/567.ts
+#EXTINF:-1 tvg-id="PREMIUM_CRIME_IT" tvg-name="PREMIUM CRIME IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_crime_logo.png" group-title="ITALY" ,PREMIUM CRIME IT
+http://client.nodomain.vip:80/live.ts?channelId=559&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/559.ts
+#EXTINF:-1 tvg-id="PREMIUM_EMOTION_IT" tvg-name="PREMIUM EMOTION IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_emotion_logo.png" group-title="ITALY" ,PREMIUM EMOTION IT
+http://client.nodomain.vip:80/live.ts?channelId=560&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/560.ts
+#EXTINF:-1 tvg-id="SKY_ATLANTIC_IT" tvg-name="SKY ATLANTIC IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_atlantic_logo.png" group-title="ITALY" ,SKY ATLANTIC IT
+http://client.nodomain.vip:80/live.ts?channelId=555&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/555.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_ACTION_IT" tvg-name="SKY CINEMA ACTION IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://guidatv.sky.it/pd-logo/skychb_688premiumactionhd?tr=n-logo_80" group-title="ITALY" ,SKY CINEMA ACTION IT
+http://client.nodomain.vip:80/live.ts?channelId=557&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/557.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_COMEDY" tvg-name="SKY CINEMA COMEDY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_comedy_logo.png" group-title="ITALY" ,SKY CINEMA COMEDY IT
+http://client.nodomain.vip:80/live.ts?channelId=554&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/554.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_FAMILY" tvg-name="SKY CINEMA FAMILY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://guidatv.sky.it/pd-logo/skychb_255skycinemafamilyhd?tr=n-logo_80" group-title="ITALY" ,SKY CINEMA FAMILY IT
+http://client.nodomain.vip:80/live.ts?channelId=553&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/553.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_ROMANCE_IT" tvg-name="SKY CINEMA ROMANCE IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="ITALY" ,SKY CINEMA ROMANCE IT
+http://client.nodomain.vip:80/live.ts?channelId=565&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/565.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_DRAMA_IT" tvg-name="SKY CINEMA DRAMA IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky-Cinema-Drama-logo.png" group-title="ITALY" ,SKY CINEMA DRAMA IT
+http://client.nodomain.vip:80/live.ts?channelId=552&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/552.ts
+#EXTINF:-1 tvg-id="RAI_1" tvg-name="RAI 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai1-logo.png" group-title="ITALY" ,RAI 1
+http://client.nodomain.vip:80/live.ts?channelId=456&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/456.ts
+#EXTINF:-1 tvg-id="RAI_2" tvg-name="RAI 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai2-logo.png" group-title="ITALY" ,RAI 2
+http://client.nodomain.vip:80/live.ts?channelId=457&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/457.ts
+#EXTINF:-1 tvg-id="RAI_3" tvg-name="RAI 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai3-logo.png" group-title="ITALY" ,RAI 3
+http://client.nodomain.vip:80/live.ts?channelId=458&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/458.ts
+#EXTINF:-1 tvg-id="RAI_4" tvg-name="RAI 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rai_4.png" group-title="ITALY" ,RAI 4
+http://client.nodomain.vip:80/live.ts?channelId=1569&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1569.ts
+#EXTINF:-1 tvg-id="RAI_MOVIE" tvg-name="RAI MOVIE" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/RaiMovie-logo.png" group-title="ITALY" ,RAI MOVIE
+http://client.nodomain.vip:80/live.ts?channelId=1570&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1570.ts
+#EXTINF:-1 tvg-id="Rete_4" tvg-name="RETE 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_rete4.jpg" group-title="ITALY" ,RETE 4
+http://client.nodomain.vip:80/live.ts?channelId=462&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/462.ts
+#EXTINF:-1 tvg-id="Canale_5" tvg-name="CANALE 5" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_canale5.jpg" group-title="ITALY" ,CANALE 5
+http://client.nodomain.vip:80/live.ts?channelId=461&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/461.ts
+#EXTINF:-1 tvg-id="Italia_1" tvg-name="ITALIA 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_italia1.jpg" group-title="ITALY" ,ITALIA 1
+http://client.nodomain.vip:80/live.ts?channelId=566&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/566.ts
+#EXTINF:-1 tvg-id="RSI_LA_1_HD_IT" tvg-name="RSI LA 1 HD IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rsi_la_1_logo.png" group-title="ITALY" ,RSI LA 1 HD IT
+http://client.nodomain.vip:80/live.ts?channelId=564&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/564.ts
+#EXTINF:-1 tvg-id="DISCOVERY_IT" tvg-name="DISCOVERY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Discovery_Channel_logo.png" group-title="ITALY" ,DISCOVERY IT
+http://client.nodomain.vip:80/live.ts?channelId=563&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/563.ts
+#EXTINF:-1 tvg-id="NAT_GEO_WILD_IT" tvg-name="NAT GEO WILD IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/national_geographic_wild_eu.png" group-title="ITALY" ,NAT GEO WILD IT
+http://client.nodomain.vip:80/live.ts?channelId=562&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/562.ts
+#EXTINF:-1 tvg-id="PREMIUM_ACTION_IT" tvg-name="PREMIUM ACTION IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_action_logo.png" group-title="ITALY" ,PREMIUM ACTION IT
+http://client.nodomain.vip:80/live.ts?channelId=558&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/558.ts
+#EXTINF:-1 tvg-id="PREMIUM_CINEMA_IT" tvg-name="PREMIUM CINEMA IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_logo.png" group-title="ITALY" ,PREMIUM CINEMA IT
+http://client.nodomain.vip:80/live.ts?channelId=556&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/556.ts
+#EXTINF:-1 tvg-id="PREMIUM_COMEDY_IT" tvg-name="PREMIUM COMEDY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_comedy_logo.png" group-title="ITALY" ,PREMIUM COMEDY IT
+http://client.nodomain.vip:80/live.ts?channelId=567&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/567.ts
+#EXTINF:-1 tvg-id="PREMIUM_CRIME_IT" tvg-name="PREMIUM CRIME IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_crime_logo.png" group-title="ITALY" ,PREMIUM CRIME IT
+http://client.nodomain.vip:80/live.ts?channelId=559&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/559.ts
+#EXTINF:-1 tvg-id="PREMIUM_EMOTION_IT" tvg-name="PREMIUM EMOTION IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_emotion_logo.png" group-title="ITALY" ,PREMIUM EMOTION IT
+http://client.nodomain.vip:80/live.ts?channelId=560&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/560.ts
+#EXTINF:-1 tvg-id="SKY_ATLANTIC_IT" tvg-name="SKY ATLANTIC IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/sky_atlantic_logo.png" group-title="ITALY" ,SKY ATLANTIC IT
+http://client.nodomain.vip:80/live.ts?channelId=555&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/555.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_ACTION_IT" tvg-name="SKY CINEMA ACTION IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://guidatv.sky.it/pd-logo/skychb_688premiumactionhd?tr=n-logo_80" group-title="ITALY" ,SKY CINEMA ACTION IT
+http://client.nodomain.vip:80/live.ts?channelId=557&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/557.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_COMEDY" tvg-name="SKY CINEMA COMEDY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/premium_cinema_comedy_logo.png" group-title="ITALY" ,SKY CINEMA COMEDY IT
+http://client.nodomain.vip:80/live.ts?channelId=554&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/554.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_FAMILY" tvg-name="SKY CINEMA FAMILY IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://guidatv.sky.it/pd-logo/skychb_255skycinemafamilyhd?tr=n-logo_80" group-title="ITALY" ,SKY CINEMA FAMILY IT
+http://client.nodomain.vip:80/live.ts?channelId=553&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/553.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_ROMANCE_IT" tvg-name="SKY CINEMA ROMANCE IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="ITALY" ,SKY CINEMA ROMANCE IT
+http://client.nodomain.vip:80/live.ts?channelId=565&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/565.ts
+#EXTINF:-1 tvg-id="SKY_CINEMA_DRAMA_IT" tvg-name="SKY CINEMA DRAMA IT" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky-Cinema-Drama-logo.png" group-title="ITALY" ,SKY CINEMA DRAMA IT
+http://client.nodomain.vip:80/live.ts?channelId=552&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/552.ts
+#EXTINF:-1 tvg-id="XXX_1" tvg-name="XXX 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 1
+http://client.nodomain.vip:80/live.ts?channelId=41&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/41.ts
+#EXTINF:-1 tvg-id="XXX_2" tvg-name="XXX 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 2
+http://client.nodomain.vip:80/live.ts?channelId=164&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/164.ts
+#EXTINF:-1 tvg-id="XXX_3" tvg-name="XXX 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 3
+http://client.nodomain.vip:80/live.ts?channelId=162&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/162.ts
+#EXTINF:-1 tvg-id="XXX_4" tvg-name="XXX 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 4
+http://client.nodomain.vip:80/live.ts?channelId=1514&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1514.ts
+#EXTINF:-1 tvg-id="XXX_5" tvg-name="XXX 5" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 5
+http://client.nodomain.vip:80/live.ts?channelId=1564&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1564.ts
+#EXTINF:-1 tvg-id="XXX_6" tvg-name="XXX 6" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 6
+http://client.nodomain.vip:80/live.ts?channelId=1565&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1565.ts
+#EXTINF:-1 tvg-id="XXX_7" tvg-name="XXX 7" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 7
+http://client.nodomain.vip:80/live.ts?channelId=1566&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1566.ts
+#EXTINF:-1 tvg-id="XXX_8" tvg-name="XXX 8" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",XXX 8
+http://client.nodomain.vip:80/live.ts?channelId=1567&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1567.ts
+#EXTINF:-1 tvg-id="BALKAN_EROTIC" tvg-name="BALKAN EROTIC" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",BALKAN EROTIC
+http://client.nodomain.vip:80/live.ts?channelId=1474&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1474.ts
+#EXTINF:-1 tvg-id="DORCEL_TV" tvg-name="DORCEL TV" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="/noicon.png" group-title="XXX" parent-code="1234",DORCEL TV
+http://client.nodomain.vip:80/live.ts?channelId=1513&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/1513.ts
+#EXTINF:-1 tvg-id="PINK_EROTIC_1" tvg-name="PINK EROTIC 1" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic-logo.png" group-title="XXX" parent-code="1234",PINK EROTIC 1
+http://client.nodomain.vip:80/live.ts?channelId=96&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/96.ts
+#EXTINF:-1 tvg-id="PINK_EROTIC_2" tvg-name="PINK EROTIC 2" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic2-logo.png" group-title="XXX" parent-code="1234",PINK EROTIC 2
+http://client.nodomain.vip:80/live.ts?channelId=97&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/97.ts
+#EXTINF:-1 tvg-id="PINK_EROTIC_3" tvg-name="PINK EROTIC 3" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic3.png" group-title="XXX" parent-code="1234",PINK EROTIC 3
+http://client.nodomain.vip:80/live.ts?channelId=98&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/98.ts
+#EXTINF:-1 tvg-id="PINK_EROTIC_4" tvg-name="PINK EROTIC 4" tvg-link="http://vod4.nodomain.vip/guide.xml" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic4.png" group-title="XXX" parent-code="1234",PINK EROTIC 4
+http://client.nodomain.vip:80/live.ts?channelId=99&uid=49073&deviceUser=Goran009&devicePass=dzTFjgDimr&fileName=file/99.ts
